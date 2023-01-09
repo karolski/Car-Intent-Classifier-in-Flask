@@ -1,0 +1,6322 @@
+[
+  {
+    "make": "AUDI",
+    "model": "100",
+    "count": 1
+  },
+  {
+    "make": "AUDI",
+    "model": "80",
+    "count": 1
+  },
+  {
+    "make": "AUDI",
+    "model": "A1",
+    "count": 4680
+  },
+  {
+    "make": "AUDI",
+    "model": "A2",
+    "count": 25
+  },
+  {
+    "make": "AUDI",
+    "model": "A3",
+    "count": 6381
+  },
+  {
+    "make": "AUDI",
+    "model": "A3 CABRIOLET",
+    "count": 432
+  },
+  {
+    "make": "AUDI",
+    "model": "A4",
+    "count": 2397
+  },
+  {
+    "make": "AUDI",
+    "model": "A4 ALLROAD",
+    "count": 186
+  },
+  {
+    "make": "AUDI",
+    "model": "A4 AVANT",
+    "count": 1485
+  },
+  {
+    "make": "AUDI",
+    "model": "A4 CABRIOLET",
+    "count": 148
+  },
+  {
+    "make": "AUDI",
+    "model": "A5",
+    "count": 2702
+  },
+  {
+    "make": "AUDI",
+    "model": "A5 CABRIOLET",
+    "count": 487
+  },
+  {
+    "make": "AUDI",
+    "model": "A6 ALLROAD",
+    "count": 149
+  },
+  {
+    "make": "AUDI",
+    "model": "A6 AVANT",
+    "count": 808
+  },
+  {
+    "make": "AUDI",
+    "model": "A6 SALOON",
+    "count": 1397
+  },
+  {
+    "make": "AUDI",
+    "model": "A6 UNSPECIFIED",
+    "count": 26
+  },
+  {
+    "make": "AUDI",
+    "model": "A7",
+    "count": 486
+  },
+  {
+    "make": "AUDI",
+    "model": "A8",
+    "count": 357
+  },
+  {
+    "make": "AUDI",
+    "model": "ALLROAD",
+    "count": 6
+  },
+  {
+    "make": "AUDI",
+    "model": "CABRIOLET",
+    "count": 5
+  },
+  {
+    "make": "AUDI",
+    "model": "COUPE",
+    "count": 5
+  },
+  {
+    "make": "AUDI",
+    "model": "E-TRON",
+    "count": 141
+  },
+  {
+    "make": "AUDI",
+    "model": "Q2",
+    "count": 1354
+  },
+  {
+    "make": "AUDI",
+    "model": "Q3",
+    "count": 2286
+  },
+  {
+    "make": "AUDI",
+    "model": "Q5",
+    "count": 1379
+  },
+  {
+    "make": "AUDI",
+    "model": "Q7",
+    "count": 912
+  },
+  {
+    "make": "AUDI",
+    "model": "Q8",
+    "count": 105
+  },
+  {
+    "make": "AUDI",
+    "model": "QUATTRO",
+    "count": 6
+  },
+  {
+    "make": "AUDI",
+    "model": "R8",
+    "count": 260
+  },
+  {
+    "make": "AUDI",
+    "model": "RS Q3",
+    "count": 92
+  },
+  {
+    "make": "AUDI",
+    "model": "RS3",
+    "count": 210
+  },
+  {
+    "make": "AUDI",
+    "model": "RS4",
+    "count": 28
+  },
+  {
+    "make": "AUDI",
+    "model": "RS4 AVANT",
+    "count": 133
+  },
+  {
+    "make": "AUDI",
+    "model": "RS4 CABRIOLET",
+    "count": 14
+  },
+  {
+    "make": "AUDI",
+    "model": "RS5",
+    "count": 133
+  },
+  {
+    "make": "AUDI",
+    "model": "RS6",
+    "count": 8
+  },
+  {
+    "make": "AUDI",
+    "model": "RS6 AVANT",
+    "count": 232
+  },
+  {
+    "make": "AUDI",
+    "model": "RS7",
+    "count": 59
+  },
+  {
+    "make": "AUDI",
+    "model": "RSQ8",
+    "count": 14
+  },
+  {
+    "make": "AUDI",
+    "model": "S1",
+    "count": 111
+  },
+  {
+    "make": "AUDI",
+    "model": "S3",
+    "count": 972
+  },
+  {
+    "make": "AUDI",
+    "model": "S4",
+    "count": 170
+  },
+  {
+    "make": "AUDI",
+    "model": "S4 AVANT",
+    "count": 112
+  },
+  {
+    "make": "AUDI",
+    "model": "S4 CABRIOLET",
+    "count": 21
+  },
+  {
+    "make": "AUDI",
+    "model": "S5",
+    "count": 461
+  },
+  {
+    "make": "AUDI",
+    "model": "S6 AVANT",
+    "count": 25
+  },
+  {
+    "make": "AUDI",
+    "model": "S6 SALOON",
+    "count": 55
+  },
+  {
+    "make": "AUDI",
+    "model": "S7",
+    "count": 19
+  },
+  {
+    "make": "AUDI",
+    "model": "S8",
+    "count": 24
+  },
+  {
+    "make": "AUDI",
+    "model": "SQ2",
+    "count": 38
+  },
+  {
+    "make": "AUDI",
+    "model": "SQ5",
+    "count": 391
+  },
+  {
+    "make": "AUDI",
+    "model": "SQ7",
+    "count": 131
+  },
+  {
+    "make": "AUDI",
+    "model": "SQ8",
+    "count": 12
+  },
+  {
+    "make": "AUDI",
+    "model": "TT",
+    "count": 1916
+  },
+  {
+    "make": "AUDI",
+    "model": "TT RS",
+    "count": 73
+  },
+  {
+    "make": "AUDI",
+    "model": "TTS",
+    "count": 263
+  },
+  {
+    "make": "BMW",
+    "model": "1 SERIES",
+    "count": 7810
+  },
+  {
+    "make": "BMW",
+    "model": "2 SERIES",
+    "count": 1530
+  },
+  {
+    "make": "BMW",
+    "model": "2 SERIES ACTIVE TOURER",
+    "count": 899
+  },
+  {
+    "make": "BMW",
+    "model": "2 SERIES GRAN COUPE",
+    "count": 70
+  },
+  {
+    "make": "BMW",
+    "model": "2 SERIES GRAN TOURER",
+    "count": 743
+  },
+  {
+    "make": "BMW",
+    "model": "2002",
+    "count": 1
+  },
+  {
+    "make": "BMW",
+    "model": "3 SERIES",
+    "count": 8523
+  },
+  {
+    "make": "BMW",
+    "model": "3 SERIES GRAN TURISMO",
+    "count": 312
+  },
+  {
+    "make": "BMW",
+    "model": "4 SERIES",
+    "count": 2542
+  },
+  {
+    "make": "BMW",
+    "model": "4 SERIES GRAN COUPE",
+    "count": 1067
+  },
+  {
+    "make": "BMW",
+    "model": "5 SERIES",
+    "count": 4140
+  },
+  {
+    "make": "BMW",
+    "model": "5 SERIES GRAN TURISMO",
+    "count": 117
+  },
+  {
+    "make": "BMW",
+    "model": "6 SERIES",
+    "count": 427
+  },
+  {
+    "make": "BMW",
+    "model": "6 SERIES GRAN COUPE",
+    "count": 193
+  },
+  {
+    "make": "BMW",
+    "model": "6 SERIES GRAN TURISMO",
+    "count": 101
+  },
+  {
+    "make": "BMW",
+    "model": "7 SERIES",
+    "count": 713
+  },
+  {
+    "make": "BMW",
+    "model": "8 SERIES",
+    "count": 127
+  },
+  {
+    "make": "BMW",
+    "model": "8 SERIES GRAN COUPE",
+    "count": 67
+  },
+  {
+    "make": "BMW",
+    "model": "ALPINA B10",
+    "count": 6
+  },
+  {
+    "make": "BMW",
+    "model": "ALPINA B3",
+    "count": 3
+  },
+  {
+    "make": "BMW",
+    "model": "ALPINA B3 BI-TURBO",
+    "count": 5
+  },
+  {
+    "make": "BMW",
+    "model": "ALPINA B4",
+    "count": 1
+  },
+  {
+    "make": "BMW",
+    "model": "ALPINA B5",
+    "count": 7
+  },
+  {
+    "make": "BMW",
+    "model": "ALPINA B6",
+    "count": 1
+  },
+  {
+    "make": "BMW",
+    "model": "ALPINA B7",
+    "count": 1
+  },
+  {
+    "make": "BMW",
+    "model": "ALPINA D3",
+    "count": 9
+  },
+  {
+    "make": "BMW",
+    "model": "ALPINA D3 BI-TURBO",
+    "count": 21
+  },
+  {
+    "make": "BMW",
+    "model": "ALPINA D4",
+    "count": 2
+  },
+  {
+    "make": "BMW",
+    "model": "ALPINA D4 BI-TURBO",
+    "count": 1
+  },
+  {
+    "make": "BMW",
+    "model": "ALPINA D5 BI-TURBO",
+    "count": 5
+  },
+  {
+    "make": "BMW",
+    "model": "ALPINA ROADSTER",
+    "count": 1
+  },
+  {
+    "make": "BMW",
+    "model": "ALPINA UNSPECIFIED MODELS",
+    "count": 7
+  },
+  {
+    "make": "BMW",
+    "model": "ALPINA XD3 BI-TURBO",
+    "count": 5
+  },
+  {
+    "make": "BMW",
+    "model": "E9",
+    "count": 1
+  },
+  {
+    "make": "BMW",
+    "model": "I3",
+    "count": 546
+  },
+  {
+    "make": "BMW",
+    "model": "I8",
+    "count": 113
+  },
+  {
+    "make": "BMW",
+    "model": "ISETTA",
+    "count": 1
+  },
+  {
+    "make": "BMW",
+    "model": "M2",
+    "count": 304
+  },
+  {
+    "make": "BMW",
+    "model": "M3",
+    "count": 491
+  },
+  {
+    "make": "BMW",
+    "model": "M4",
+    "count": 627
+  },
+  {
+    "make": "BMW",
+    "model": "M5",
+    "count": 248
+  },
+  {
+    "make": "BMW",
+    "model": "M6",
+    "count": 60
+  },
+  {
+    "make": "BMW",
+    "model": "M6 GRAN COUPE",
+    "count": 26
+  },
+  {
+    "make": "BMW",
+    "model": "M8",
+    "count": 10
+  },
+  {
+    "make": "BMW",
+    "model": "M8 GRAN COUPE",
+    "count": 4
+  },
+  {
+    "make": "BMW",
+    "model": "X1",
+    "count": 1829
+  },
+  {
+    "make": "BMW",
+    "model": "X2",
+    "count": 350
+  },
+  {
+    "make": "BMW",
+    "model": "X3",
+    "count": 1250
+  },
+  {
+    "make": "BMW",
+    "model": "X3 M",
+    "count": 37
+  },
+  {
+    "make": "BMW",
+    "model": "X4",
+    "count": 344
+  },
+  {
+    "make": "BMW",
+    "model": "X4 M",
+    "count": 20
+  },
+  {
+    "make": "BMW",
+    "model": "X5",
+    "count": 1573
+  },
+  {
+    "make": "BMW",
+    "model": "X5 M",
+    "count": 55
+  },
+  {
+    "make": "BMW",
+    "model": "X5M",
+    "count": 5
+  },
+  {
+    "make": "BMW",
+    "model": "X6",
+    "count": 505
+  },
+  {
+    "make": "BMW",
+    "model": "X6 M",
+    "count": 32
+  },
+  {
+    "make": "BMW",
+    "model": "X6M",
+    "count": 3
+  },
+  {
+    "make": "BMW",
+    "model": "X7",
+    "count": 59
+  },
+  {
+    "make": "BMW",
+    "model": "Z1",
+    "count": 1
+  },
+  {
+    "make": "BMW",
+    "model": "Z3",
+    "count": 83
+  },
+  {
+    "make": "BMW",
+    "model": "Z3 M",
+    "count": 14
+  },
+  {
+    "make": "BMW",
+    "model": "Z3M",
+    "count": 3
+  },
+  {
+    "make": "BMW",
+    "model": "Z4",
+    "count": 540
+  },
+  {
+    "make": "BMW",
+    "model": "Z4 M",
+    "count": 21
+  },
+  {
+    "make": "BMW",
+    "model": "Z4M",
+    "count": 13
+  },
+  {
+    "make": "BMW",
+    "model": "Z8",
+    "count": 4
+  },
+  {
+    "make": "FORD",
+    "model": "B-MAX",
+    "count": 845
+  },
+  {
+    "make": "FORD",
+    "model": "C-MAX",
+    "count": 1602
+  },
+  {
+    "make": "FORD",
+    "model": "CAPRI",
+    "count": 8
+  },
+  {
+    "make": "FORD",
+    "model": "CORTINA",
+    "count": 3
+  },
+  {
+    "make": "FORD",
+    "model": "COUGAR",
+    "count": 6
+  },
+  {
+    "make": "FORD",
+    "model": "CUSTOM CAB",
+    "count": 1
+  },
+  {
+    "make": "FORD",
+    "model": "ECOSPORT",
+    "count": 1907
+  },
+  {
+    "make": "FORD",
+    "model": "EDGE",
+    "count": 258
+  },
+  {
+    "make": "FORD",
+    "model": "ESCORT",
+    "count": 38
+  },
+  {
+    "make": "FORD",
+    "model": "EXPLORER",
+    "count": 2
+  },
+  {
+    "make": "FORD",
+    "model": "F1",
+    "count": 1
+  },
+  {
+    "make": "FORD",
+    "model": "F100",
+    "count": 3
+  },
+  {
+    "make": "FORD",
+    "model": "F150",
+    "count": 23
+  },
+  {
+    "make": "FORD",
+    "model": "FIESTA",
+    "count": 14996
+  },
+  {
+    "make": "FORD",
+    "model": "FOCUS",
+    "count": 11160
+  },
+  {
+    "make": "FORD",
+    "model": "FOCUS C-MAX",
+    "count": 113
+  },
+  {
+    "make": "FORD",
+    "model": "FOCUS CC",
+    "count": 45
+  },
+  {
+    "make": "FORD",
+    "model": "FREDA",
+    "count": 1
+  },
+  {
+    "make": "FORD",
+    "model": "FUSION",
+    "count": 234
+  },
+  {
+    "make": "FORD",
+    "model": "GALAXY",
+    "count": 751
+  },
+  {
+    "make": "FORD",
+    "model": "GRANADA",
+    "count": 1
+  },
+  {
+    "make": "FORD",
+    "model": "GRAND C-MAX",
+    "count": 567
+  },
+  {
+    "make": "FORD",
+    "model": "GRAND TOURNEO CONNECT",
+    "count": 68
+  },
+  {
+    "make": "FORD",
+    "model": "GT",
+    "count": 5
+  },
+  {
+    "make": "FORD",
+    "model": "KA",
+    "count": 1300
+  },
+  {
+    "make": "FORD",
+    "model": "KA+",
+    "count": 710
+  },
+  {
+    "make": "FORD",
+    "model": "KUGA",
+    "count": 5168
+  },
+  {
+    "make": "FORD",
+    "model": "LINCOLN",
+    "count": 1
+  },
+  {
+    "make": "FORD",
+    "model": "MAVERICK",
+    "count": 2
+  },
+  {
+    "make": "FORD",
+    "model": "MONDEO",
+    "count": 2015
+  },
+  {
+    "make": "FORD",
+    "model": "MUSTANG",
+    "count": 319
+  },
+  {
+    "make": "FORD",
+    "model": "ORION",
+    "count": 1
+  },
+  {
+    "make": "FORD",
+    "model": "PUMA",
+    "count": 227
+  },
+  {
+    "make": "FORD",
+    "model": "RANGER",
+    "count": 950
+  },
+  {
+    "make": "FORD",
+    "model": "S-MAX",
+    "count": 1034
+  },
+  {
+    "make": "FORD",
+    "model": "SCORPIO",
+    "count": 2
+  },
+  {
+    "make": "FORD",
+    "model": "SIERRA",
+    "count": 10
+  },
+  {
+    "make": "FORD",
+    "model": "STREETKA",
+    "count": 19
+  },
+  {
+    "make": "FORD",
+    "model": "THUNDERBIRD",
+    "count": 2
+  },
+  {
+    "make": "FORD",
+    "model": "TOURNEO CONNECT",
+    "count": 75
+  },
+  {
+    "make": "FORD",
+    "model": "TOURNEO COURIER",
+    "count": 33
+  },
+  {
+    "make": "FORD",
+    "model": "TOURNEO CUSTOM",
+    "count": 276
+  },
+  {
+    "make": "FORD",
+    "model": "TRANSIT",
+    "count": 80
+  },
+  {
+    "make": "FORD",
+    "model": "TRANSIT CONNECT",
+    "count": 96
+  },
+  {
+    "make": "FORD",
+    "model": "TRANSIT COURIER",
+    "count": 9
+  },
+  {
+    "make": "FORD",
+    "model": "TRANSIT CUSTOM",
+    "count": 302
+  },
+  {
+    "make": "HONDA",
+    "model": "ACCORD",
+    "count": 205
+  },
+  {
+    "make": "HONDA",
+    "model": "CIVIC",
+    "count": 3156
+  },
+  {
+    "make": "HONDA",
+    "model": "CR-V",
+    "count": 2252
+  },
+  {
+    "make": "HONDA",
+    "model": "CR-X",
+    "count": 5
+  },
+  {
+    "make": "HONDA",
+    "model": "CR-Z",
+    "count": 41
+  },
+  {
+    "make": "HONDA",
+    "model": "CROSSROAD",
+    "count": 1
+  },
+  {
+    "make": "HONDA",
+    "model": "ELYSION",
+    "count": 14
+  },
+  {
+    "make": "HONDA",
+    "model": "FR-V",
+    "count": 62
+  },
+  {
+    "make": "HONDA",
+    "model": "FREED",
+    "count": 1
+  },
+  {
+    "make": "HONDA",
+    "model": "HONDA E",
+    "count": 35
+  },
+  {
+    "make": "HONDA",
+    "model": "HR-V",
+    "count": 642
+  },
+  {
+    "make": "HONDA",
+    "model": "INSIGHT",
+    "count": 83
+  },
+  {
+    "make": "HONDA",
+    "model": "INTEGRA",
+    "count": 13
+  },
+  {
+    "make": "HONDA",
+    "model": "JAZZ",
+    "count": 2902
+  },
+  {
+    "make": "HONDA",
+    "model": "LEGEND",
+    "count": 5
+  },
+  {
+    "make": "HONDA",
+    "model": "LOGO",
+    "count": 1
+  },
+  {
+    "make": "HONDA",
+    "model": "NSX",
+    "count": 19
+  },
+  {
+    "make": "HONDA",
+    "model": "ODYSSEY",
+    "count": 3
+  },
+  {
+    "make": "HONDA",
+    "model": "PRELUDE",
+    "count": 2
+  },
+  {
+    "make": "HONDA",
+    "model": "S2000",
+    "count": 25
+  },
+  {
+    "make": "HONDA",
+    "model": "SHUTTLE",
+    "count": 1
+  },
+  {
+    "make": "HONDA",
+    "model": "STEPWAGON",
+    "count": 17
+  },
+  {
+    "make": "HONDA",
+    "model": "STREAM",
+    "count": 7
+  },
+  {
+    "make": "JAGUAR",
+    "model": "C-TYPE",
+    "count": 2
+  },
+  {
+    "make": "JAGUAR",
+    "model": "E-PACE",
+    "count": 655
+  },
+  {
+    "make": "JAGUAR",
+    "model": "E-TYPE",
+    "count": 33
+  },
+  {
+    "make": "JAGUAR",
+    "model": "F-PACE",
+    "count": 1199
+  },
+  {
+    "make": "JAGUAR",
+    "model": "F-TYPE",
+    "count": 559
+  },
+  {
+    "make": "JAGUAR",
+    "model": "I-PACE",
+    "count": 272
+  },
+  {
+    "make": "JAGUAR",
+    "model": "MARK I",
+    "count": 1
+  },
+  {
+    "make": "JAGUAR",
+    "model": "MARK II",
+    "count": 5
+  },
+  {
+    "make": "JAGUAR",
+    "model": "S-TYPE",
+    "count": 132
+  },
+  {
+    "make": "JAGUAR",
+    "model": "X-TYPE",
+    "count": 273
+  },
+  {
+    "make": "JAGUAR",
+    "model": "XE",
+    "count": 1213
+  },
+  {
+    "make": "JAGUAR",
+    "model": "XF",
+    "count": 1943
+  },
+  {
+    "make": "JAGUAR",
+    "model": "XJ",
+    "count": 491
+  },
+  {
+    "make": "JAGUAR",
+    "model": "XJ220",
+    "count": 1
+  },
+  {
+    "make": "JAGUAR",
+    "model": "XJS",
+    "count": 46
+  },
+  {
+    "make": "JAGUAR",
+    "model": "XK",
+    "count": 124
+  },
+  {
+    "make": "JAGUAR",
+    "model": "XK140",
+    "count": 1
+  },
+  {
+    "make": "JAGUAR",
+    "model": "XK8",
+    "count": 74
+  },
+  {
+    "make": "JAGUAR",
+    "model": "XKR",
+    "count": 153
+  },
+  {
+    "make": "JAGUAR",
+    "model": "XKR-S",
+    "count": 9
+  },
+  {
+    "make": "LAND ROVER",
+    "model": "110",
+    "count": 9
+  },
+  {
+    "make": "LAND ROVER",
+    "model": "90",
+    "count": 9
+  },
+  {
+    "make": "LAND ROVER",
+    "model": "DEFENDER 110",
+    "count": 498
+  },
+  {
+    "make": "LAND ROVER",
+    "model": "DEFENDER 130",
+    "count": 5
+  },
+  {
+    "make": "LAND ROVER",
+    "model": "DEFENDER 90",
+    "count": 363
+  },
+  {
+    "make": "LAND ROVER",
+    "model": "DEFENDER UNSPECIFIED",
+    "count": 19
+  },
+  {
+    "make": "LAND ROVER",
+    "model": "DISCOVERY",
+    "count": 912
+  },
+  {
+    "make": "LAND ROVER",
+    "model": "DISCOVERY 3",
+    "count": 146
+  },
+  {
+    "make": "LAND ROVER",
+    "model": "DISCOVERY 4",
+    "count": 625
+  },
+  {
+    "make": "LAND ROVER",
+    "model": "DISCOVERY SPORT",
+    "count": 2149
+  },
+  {
+    "make": "LAND ROVER",
+    "model": "FREELANDER",
+    "count": 82
+  },
+  {
+    "make": "LAND ROVER",
+    "model": "FREELANDER 2",
+    "count": 736
+  },
+  {
+    "make": "LAND ROVER",
+    "model": "LIGHTWEIGHT",
+    "count": 4
+  },
+  {
+    "make": "LAND ROVER",
+    "model": "MODIFIED",
+    "count": 1
+  },
+  {
+    "make": "LAND ROVER",
+    "model": "RANGE ROVER",
+    "count": 1732
+  },
+  {
+    "make": "LAND ROVER",
+    "model": "RANGE ROVER EVOQUE",
+    "count": 3912
+  },
+  {
+    "make": "LAND ROVER",
+    "model": "RANGE ROVER SPORT",
+    "count": 2912
+  },
+  {
+    "make": "LAND ROVER",
+    "model": "RANGE ROVER VELAR",
+    "count": 736
+  },
+  {
+    "make": "LAND ROVER",
+    "model": "SERIES I",
+    "count": 5
+  },
+  {
+    "make": "LAND ROVER",
+    "model": "SERIES II",
+    "count": 11
+  },
+  {
+    "make": "LAND ROVER",
+    "model": "SERIES III",
+    "count": 9
+  },
+  {
+    "make": "MERCEDES-BENZ",
+    "model": "190",
+    "count": 25
+  },
+  {
+    "make": "MERCEDES-BENZ",
+    "model": "190 SL",
+    "count": 1
+  },
+  {
+    "make": "MERCEDES-BENZ",
+    "model": "200",
+    "count": 7
+  },
+  {
+    "make": "MERCEDES-BENZ",
+    "model": "220",
+    "count": 7
+  },
+  {
+    "make": "MERCEDES-BENZ",
+    "model": "230",
+    "count": 8
+  },
+  {
+    "make": "MERCEDES-BENZ",
+    "model": "230 SL",
+    "count": 2
+  },
+  {
+    "make": "MERCEDES-BENZ",
+    "model": "240",
+    "count": 1
+  },
+  {
+    "make": "MERCEDES-BENZ",
+    "model": "250",
+    "count": 2
+  },
+  {
+    "make": "MERCEDES-BENZ",
+    "model": "260",
+    "count": 2
+  },
+  {
+    "make": "MERCEDES-BENZ",
+    "model": "280",
+    "count": 10
+  },
+  {
+    "make": "MERCEDES-BENZ",
+    "model": "300",
+    "count": 16
+  },
+  {
+    "make": "MERCEDES-BENZ",
+    "model": "310",
+    "count": 1
+  },
+  {
+    "make": "MERCEDES-BENZ",
+    "model": "320",
+    "count": 3
+  },
+  {
+    "make": "MERCEDES-BENZ",
+    "model": "350",
+    "count": 6
+  },
+  {
+    "make": "MERCEDES-BENZ",
+    "model": "380",
+    "count": 5
+  },
+  {
+    "make": "MERCEDES-BENZ",
+    "model": "420",
+    "count": 1
+  },
+  {
+    "make": "MERCEDES-BENZ",
+    "model": "450",
+    "count": 6
+  },
+  {
+    "make": "MERCEDES-BENZ",
+    "model": "500",
+    "count": 12
+  },
+  {
+    "make": "MERCEDES-BENZ",
+    "model": "560",
+    "count": 5
+  },
+  {
+    "make": "MERCEDES-BENZ",
+    "model": "560SL",
+    "count": 1
+  },
+  {
+    "make": "MERCEDES-BENZ",
+    "model": "600",
+    "count": 1
+  },
+  {
+    "make": "MERCEDES-BENZ",
+    "model": "A CLASS",
+    "count": 7430
+  },
+  {
+    "make": "MERCEDES-BENZ",
+    "model": "AMG",
+    "count": 12
+  },
+  {
+    "make": "MERCEDES-BENZ",
+    "model": "AMG GT",
+    "count": 118
+  },
+  {
+    "make": "MERCEDES-BENZ",
+    "model": "B CLASS",
+    "count": 1250
+  },
+  {
+    "make": "MERCEDES-BENZ",
+    "model": "C CLASS",
+    "count": 9003
+  },
+  {
+    "make": "MERCEDES-BENZ",
+    "model": "CE CLASS",
+    "count": 1
+  },
+  {
+    "make": "MERCEDES-BENZ",
+    "model": "CITAN",
+    "count": 51
+  },
+  {
+    "make": "MERCEDES-BENZ",
+    "model": "CL",
+    "count": 92
+  },
+  {
+    "make": "MERCEDES-BENZ",
+    "model": "CLA CLASS",
+    "count": 1466
+  },
+  {
+    "make": "MERCEDES-BENZ",
+    "model": "CLC CLASS",
+    "count": 117
+  },
+  {
+    "make": "MERCEDES-BENZ",
+    "model": "CLK",
+    "count": 268
+  },
+  {
+    "make": "MERCEDES-BENZ",
+    "model": "CLS",
+    "count": 664
+  },
+  {
+    "make": "MERCEDES-BENZ",
+    "model": "E CLASS",
+    "count": 5590
+  },
+  {
+    "make": "MERCEDES-BENZ",
+    "model": "EQC",
+    "count": 36
+  },
+  {
+    "make": "MERCEDES-BENZ",
+    "model": "EQV",
+    "count": 8
+  },
+  {
+    "make": "MERCEDES-BENZ",
+    "model": "G CLASS",
+    "count": 147
+  },
+  {
+    "make": "MERCEDES-BENZ",
+    "model": "GL CLASS",
+    "count": 144
+  },
+  {
+    "make": "MERCEDES-BENZ",
+    "model": "GLA CLASS",
+    "count": 1588
+  },
+  {
+    "make": "MERCEDES-BENZ",
+    "model": "GLB CLASS",
+    "count": 120
+  },
+  {
+    "make": "MERCEDES-BENZ",
+    "model": "GLC CLASS",
+    "count": 1382
+  },
+  {
+    "make": "MERCEDES-BENZ",
+    "model": "GLE CLASS",
+    "count": 868
+  },
+  {
+    "make": "MERCEDES-BENZ",
+    "model": "GLS CLASS",
+    "count": 123
+  },
+  {
+    "make": "MERCEDES-BENZ",
+    "model": "M CLASS",
+    "count": 572
+  },
+  {
+    "make": "MERCEDES-BENZ",
+    "model": "MAYBACH S CLASS",
+    "count": 9
+  },
+  {
+    "make": "MERCEDES-BENZ",
+    "model": "R CLASS",
+    "count": 41
+  },
+  {
+    "make": "MERCEDES-BENZ",
+    "model": "S CLASS",
+    "count": 878
+  },
+  {
+    "make": "MERCEDES-BENZ",
+    "model": "SEC SERIES",
+    "count": 3
+  },
+  {
+    "make": "MERCEDES-BENZ",
+    "model": "SL CLASS",
+    "count": 466
+  },
+  {
+    "make": "MERCEDES-BENZ",
+    "model": "SLC",
+    "count": 279
+  },
+  {
+    "make": "MERCEDES-BENZ",
+    "model": "SLK",
+    "count": 839
+  },
+  {
+    "make": "MERCEDES-BENZ",
+    "model": "SLR MCLAREN",
+    "count": 4
+  },
+  {
+    "make": "MERCEDES-BENZ",
+    "model": "SLS",
+    "count": 23
+  },
+  {
+    "make": "MERCEDES-BENZ",
+    "model": "SPRINTER",
+    "count": 19
+  },
+  {
+    "make": "MERCEDES-BENZ",
+    "model": "V CLASS",
+    "count": 381
+  },
+  {
+    "make": "MERCEDES-BENZ",
+    "model": "VANEO",
+    "count": 3
+  },
+  {
+    "make": "MERCEDES-BENZ",
+    "model": "VIANO",
+    "count": 65
+  },
+  {
+    "make": "MERCEDES-BENZ",
+    "model": "VITO",
+    "count": 399
+  },
+  {
+    "make": "MERCEDES-BENZ",
+    "model": "X CLASS",
+    "count": 90
+  },
+  {
+    "make": "NISSAN",
+    "model": "200",
+    "count": 1
+  },
+  {
+    "make": "NISSAN",
+    "model": "300",
+    "count": 3
+  },
+  {
+    "make": "NISSAN",
+    "model": "350 Z",
+    "count": 42
+  },
+  {
+    "make": "NISSAN",
+    "model": "370 Z",
+    "count": 55
+  },
+  {
+    "make": "NISSAN",
+    "model": "ALMERA",
+    "count": 55
+  },
+  {
+    "make": "NISSAN",
+    "model": "ALMERA TINO",
+    "count": 19
+  },
+  {
+    "make": "NISSAN",
+    "model": "BLUEBIRD",
+    "count": 1
+  },
+  {
+    "make": "NISSAN",
+    "model": "CARAVAN LIMOUSINE",
+    "count": 1
+  },
+  {
+    "make": "NISSAN",
+    "model": "CUBE",
+    "count": 19
+  },
+  {
+    "make": "NISSAN",
+    "model": "CUBIC",
+    "count": 5
+  },
+  {
+    "make": "NISSAN",
+    "model": "E-NV200",
+    "count": 6
+  },
+  {
+    "make": "NISSAN",
+    "model": "ELGRAND",
+    "count": 100
+  },
+  {
+    "make": "NISSAN",
+    "model": "ENV200 EVALIA",
+    "count": 1
+  },
+  {
+    "make": "NISSAN",
+    "model": "FAIRLADY",
+    "count": 3
+  },
+  {
+    "make": "NISSAN",
+    "model": "FIGARO",
+    "count": 13
+  },
+  {
+    "make": "NISSAN",
+    "model": "GT-R",
+    "count": 89
+  },
+  {
+    "make": "NISSAN",
+    "model": "JUKE",
+    "count": 5362
+  },
+  {
+    "make": "NISSAN",
+    "model": "LEAF",
+    "count": 838
+  },
+  {
+    "make": "NISSAN",
+    "model": "MAXIMA QX",
+    "count": 1
+  },
+  {
+    "make": "NISSAN",
+    "model": "MICRA",
+    "count": 2063
+  },
+  {
+    "make": "NISSAN",
+    "model": "MICRA C+C",
+    "count": 32
+  },
+  {
+    "make": "NISSAN",
+    "model": "MURANO",
+    "count": 19
+  },
+  {
+    "make": "NISSAN",
+    "model": "NAVARA",
+    "count": 622
+  },
+  {
+    "make": "NISSAN",
+    "model": "NOTE",
+    "count": 1216
+  },
+  {
+    "make": "NISSAN",
+    "model": "NV200",
+    "count": 18
+  },
+  {
+    "make": "NISSAN",
+    "model": "NV250",
+    "count": 3
+  },
+  {
+    "make": "NISSAN",
+    "model": "NV300",
+    "count": 2
+  },
+  {
+    "make": "NISSAN",
+    "model": "NV400",
+    "count": 1
+  },
+  {
+    "make": "NISSAN",
+    "model": "PATHFINDER",
+    "count": 47
+  },
+  {
+    "make": "NISSAN",
+    "model": "PATROL",
+    "count": 2
+  },
+  {
+    "make": "NISSAN",
+    "model": "PATROL GR",
+    "count": 2
+  },
+  {
+    "make": "NISSAN",
+    "model": "PICKUP",
+    "count": 1
+  },
+  {
+    "make": "NISSAN",
+    "model": "PIXO",
+    "count": 87
+  },
+  {
+    "make": "NISSAN",
+    "model": "PRESIDENT",
+    "count": 1
+  },
+  {
+    "make": "NISSAN",
+    "model": "PRIMASTAR",
+    "count": 2
+  },
+  {
+    "make": "NISSAN",
+    "model": "PRIMERA",
+    "count": 22
+  },
+  {
+    "make": "NISSAN",
+    "model": "PULSAR",
+    "count": 274
+  },
+  {
+    "make": "NISSAN",
+    "model": "QASHQAI",
+    "count": 8026
+  },
+  {
+    "make": "NISSAN",
+    "model": "QASHQAI+2",
+    "count": 386
+  },
+  {
+    "make": "NISSAN",
+    "model": "SERENA",
+    "count": 28
+  },
+  {
+    "make": "NISSAN",
+    "model": "SKYLINE",
+    "count": 9
+  },
+  {
+    "make": "NISSAN",
+    "model": "STAGEA",
+    "count": 1
+  },
+  {
+    "make": "NISSAN",
+    "model": "SUNNY",
+    "count": 2
+  },
+  {
+    "make": "NISSAN",
+    "model": "TERRANO",
+    "count": 9
+  },
+  {
+    "make": "NISSAN",
+    "model": "TIIDA",
+    "count": 2
+  },
+  {
+    "make": "NISSAN",
+    "model": "X-TRAIL",
+    "count": 1457
+  },
+  {
+    "make": "PORSCHE",
+    "model": "356",
+    "count": 10
+  },
+  {
+    "make": "PORSCHE",
+    "model": "718 BOXSTER",
+    "count": 188
+  },
+  {
+    "make": "PORSCHE",
+    "model": "718 CAYMAN",
+    "count": 158
+  },
+  {
+    "make": "PORSCHE",
+    "model": "718 SPYDER",
+    "count": 13
+  },
+  {
+    "make": "PORSCHE",
+    "model": "911",
+    "count": 1539
+  },
+  {
+    "make": "PORSCHE",
+    "model": "912",
+    "count": 1
+  },
+  {
+    "make": "PORSCHE",
+    "model": "917",
+    "count": 1
+  },
+  {
+    "make": "PORSCHE",
+    "model": "918",
+    "count": 4
+  },
+  {
+    "make": "PORSCHE",
+    "model": "924",
+    "count": 6
+  },
+  {
+    "make": "PORSCHE",
+    "model": "928",
+    "count": 21
+  },
+  {
+    "make": "PORSCHE",
+    "model": "944",
+    "count": 35
+  },
+  {
+    "make": "PORSCHE",
+    "model": "968",
+    "count": 10
+  },
+  {
+    "make": "PORSCHE",
+    "model": "BOXSTER",
+    "count": 417
+  },
+  {
+    "make": "PORSCHE",
+    "model": "CARRERA GT",
+    "count": 5
+  },
+  {
+    "make": "PORSCHE",
+    "model": "CAYENNE",
+    "count": 734
+  },
+  {
+    "make": "PORSCHE",
+    "model": "CAYMAN",
+    "count": 288
+  },
+  {
+    "make": "PORSCHE",
+    "model": "MACAN",
+    "count": 523
+  },
+  {
+    "make": "PORSCHE",
+    "model": "PANAMERA",
+    "count": 371
+  },
+  {
+    "make": "PORSCHE",
+    "model": "TAYCAN",
+    "count": 68
+  },
+  {
+    "make": "TOYOTA",
+    "model": "ALPHARD",
+    "count": 56
+  },
+  {
+    "make": "TOYOTA",
+    "model": "AQUA",
+    "count": 2
+  },
+  {
+    "make": "TOYOTA",
+    "model": "AURIS",
+    "count": 2364
+  },
+  {
+    "make": "TOYOTA",
+    "model": "AVENSIS",
+    "count": 581
+  },
+  {
+    "make": "TOYOTA",
+    "model": "AVENSIS VERSO",
+    "count": 2
+  },
+  {
+    "make": "TOYOTA",
+    "model": "AYGO",
+    "count": 3414
+  },
+  {
+    "make": "TOYOTA",
+    "model": "BB",
+    "count": 1
+  },
+  {
+    "make": "TOYOTA",
+    "model": "C-HR",
+    "count": 1364
+  },
+  {
+    "make": "TOYOTA",
+    "model": "CAMRY",
+    "count": 32
+  },
+  {
+    "make": "TOYOTA",
+    "model": "CARINA E",
+    "count": 2
+  },
+  {
+    "make": "TOYOTA",
+    "model": "CELICA",
+    "count": 49
+  },
+  {
+    "make": "TOYOTA",
+    "model": "CELSIOR",
+    "count": 1
+  },
+  {
+    "make": "TOYOTA",
+    "model": "COROLLA",
+    "count": 870
+  },
+  {
+    "make": "TOYOTA",
+    "model": "COROLLA VERSO",
+    "count": 122
+  },
+  {
+    "make": "TOYOTA",
+    "model": "CROWN",
+    "count": 2
+  },
+  {
+    "make": "TOYOTA",
+    "model": "EMINA",
+    "count": 1
+  },
+  {
+    "make": "TOYOTA",
+    "model": "ESTIMA",
+    "count": 101
+  },
+  {
+    "make": "TOYOTA",
+    "model": "FJ CRUISER",
+    "count": 4
+  },
+  {
+    "make": "TOYOTA",
+    "model": "GRANVIA",
+    "count": 2
+  },
+  {
+    "make": "TOYOTA",
+    "model": "GT86",
+    "count": 141
+  },
+  {
+    "make": "TOYOTA",
+    "model": "HIACE",
+    "count": 9
+  },
+  {
+    "make": "TOYOTA",
+    "model": "HILUX",
+    "count": 343
+  },
+  {
+    "make": "TOYOTA",
+    "model": "IQ",
+    "count": 122
+  },
+  {
+    "make": "TOYOTA",
+    "model": "LAND CRUISER",
+    "count": 152
+  },
+  {
+    "make": "TOYOTA",
+    "model": "LAND CRUISER AMAZON",
+    "count": 32
+  },
+  {
+    "make": "TOYOTA",
+    "model": "LAND CRUISER COLORADO",
+    "count": 10
+  },
+  {
+    "make": "TOYOTA",
+    "model": "LUCIDA",
+    "count": 1
+  },
+  {
+    "make": "TOYOTA",
+    "model": "MARK II BLITZ",
+    "count": 1
+  },
+  {
+    "make": "TOYOTA",
+    "model": "MIRAI",
+    "count": 1
+  },
+  {
+    "make": "TOYOTA",
+    "model": "MR2",
+    "count": 61
+  },
+  {
+    "make": "TOYOTA",
+    "model": "NOAH",
+    "count": 4
+  },
+  {
+    "make": "TOYOTA",
+    "model": "PASEO",
+    "count": 2
+  },
+  {
+    "make": "TOYOTA",
+    "model": "PICNIC",
+    "count": 2
+  },
+  {
+    "make": "TOYOTA",
+    "model": "PRADO",
+    "count": 1
+  },
+  {
+    "make": "TOYOTA",
+    "model": "PREVIA",
+    "count": 47
+  },
+  {
+    "make": "TOYOTA",
+    "model": "PRIUS",
+    "count": 1108
+  },
+  {
+    "make": "TOYOTA",
+    "model": "PRIUS+",
+    "count": 250
+  },
+  {
+    "make": "TOYOTA",
+    "model": "PROACE",
+    "count": 4
+  },
+  {
+    "make": "TOYOTA",
+    "model": "PROACE VERSO",
+    "count": 42
+  },
+  {
+    "make": "TOYOTA",
+    "model": "RAV4",
+    "count": 1169
+  },
+  {
+    "make": "TOYOTA",
+    "model": "SERA",
+    "count": 1
+  },
+  {
+    "make": "TOYOTA",
+    "model": "SIENTA",
+    "count": 4
+  },
+  {
+    "make": "TOYOTA",
+    "model": "SPARKY",
+    "count": 1
+  },
+  {
+    "make": "TOYOTA",
+    "model": "STARLET",
+    "count": 8
+  },
+  {
+    "make": "TOYOTA",
+    "model": "STARLET GLANZA V",
+    "count": 1
+  },
+  {
+    "make": "TOYOTA",
+    "model": "SUPRA",
+    "count": 40
+  },
+  {
+    "make": "TOYOTA",
+    "model": "SURF",
+    "count": 2
+  },
+  {
+    "make": "TOYOTA",
+    "model": "TOWNACE",
+    "count": 1
+  },
+  {
+    "make": "TOYOTA",
+    "model": "URBANCRUISER",
+    "count": 30
+  },
+  {
+    "make": "TOYOTA",
+    "model": "VELLFIRE",
+    "count": 6
+  },
+  {
+    "make": "TOYOTA",
+    "model": "VERSO",
+    "count": 388
+  },
+  {
+    "make": "TOYOTA",
+    "model": "VERSO S",
+    "count": 21
+  },
+  {
+    "make": "TOYOTA",
+    "model": "VOXY",
+    "count": 22
+  },
+  {
+    "make": "TOYOTA",
+    "model": "WILL",
+    "count": 1
+  },
+  {
+    "make": "TOYOTA",
+    "model": "WISH",
+    "count": 2
+  },
+  {
+    "make": "TOYOTA",
+    "model": "YARIS",
+    "count": 4616
+  },
+  {
+    "make": "TOYOTA",
+    "model": "YARIS VERSO",
+    "count": 19
+  },
+  {
+    "make": "VAUXHALL",
+    "model": "ADAM",
+    "count": 1095
+  },
+  {
+    "make": "VAUXHALL",
+    "model": "AGILA",
+    "count": 190
+  },
+  {
+    "make": "VAUXHALL",
+    "model": "AMPERA",
+    "count": 29
+  },
+  {
+    "make": "VAUXHALL",
+    "model": "ANTARA",
+    "count": 262
+  },
+  {
+    "make": "VAUXHALL",
+    "model": "ASTRA",
+    "count": 7415
+  },
+  {
+    "make": "VAUXHALL",
+    "model": "ASTRA GTC",
+    "count": 701
+  },
+  {
+    "make": "VAUXHALL",
+    "model": "CALIBRA",
+    "count": 5
+  },
+  {
+    "make": "VAUXHALL",
+    "model": "CASCADA",
+    "count": 44
+  },
+  {
+    "make": "VAUXHALL",
+    "model": "CAVALIER",
+    "count": 1
+  },
+  {
+    "make": "VAUXHALL",
+    "model": "COMBO",
+    "count": 30
+  },
+  {
+    "make": "VAUXHALL",
+    "model": "COMBO LIFE",
+    "count": 168
+  },
+  {
+    "make": "VAUXHALL",
+    "model": "COMBO TOUR",
+    "count": 2
+  },
+  {
+    "make": "VAUXHALL",
+    "model": "CORSA",
+    "count": 10686
+  },
+  {
+    "make": "VAUXHALL",
+    "model": "CROSSLAND X",
+    "count": 1308
+  },
+  {
+    "make": "VAUXHALL",
+    "model": "FRONTERA",
+    "count": 5
+  },
+  {
+    "make": "VAUXHALL",
+    "model": "GRANDLAND X",
+    "count": 868
+  },
+  {
+    "make": "VAUXHALL",
+    "model": "INSIGNIA",
+    "count": 3049
+  },
+  {
+    "make": "VAUXHALL",
+    "model": "MERIVA",
+    "count": 924
+  },
+  {
+    "make": "VAUXHALL",
+    "model": "MOKKA",
+    "count": 1337
+  },
+  {
+    "make": "VAUXHALL",
+    "model": "MOKKA X",
+    "count": 2711
+  },
+  {
+    "make": "VAUXHALL",
+    "model": "MONARO",
+    "count": 7
+  },
+  {
+    "make": "VAUXHALL",
+    "model": "MOVANO",
+    "count": 9
+  },
+  {
+    "make": "VAUXHALL",
+    "model": "NOVA",
+    "count": 2
+  },
+  {
+    "make": "VAUXHALL",
+    "model": "OMEGA",
+    "count": 10
+  },
+  {
+    "make": "VAUXHALL",
+    "model": "SIGNUM",
+    "count": 13
+  },
+  {
+    "make": "VAUXHALL",
+    "model": "TIGRA",
+    "count": 63
+  },
+  {
+    "make": "VAUXHALL",
+    "model": "VECTRA",
+    "count": 175
+  },
+  {
+    "make": "VAUXHALL",
+    "model": "VICTOR",
+    "count": 1
+  },
+  {
+    "make": "VAUXHALL",
+    "model": "VIVA",
+    "count": 528
+  },
+  {
+    "make": "VAUXHALL",
+    "model": "VIVARO",
+    "count": 191
+  },
+  {
+    "make": "VAUXHALL",
+    "model": "VIVARO LIFE",
+    "count": 1
+  },
+  {
+    "make": "VAUXHALL",
+    "model": "VX220",
+    "count": 9
+  },
+  {
+    "make": "VAUXHALL",
+    "model": "VXR8",
+    "count": 14
+  },
+  {
+    "make": "VAUXHALL",
+    "model": "ZAFIRA",
+    "count": 1034
+  },
+  {
+    "make": "VAUXHALL",
+    "model": "ZAFIRA TOURER",
+    "count": 1424
+  },
+  {
+    "make": "VOLKSWAGEN",
+    "model": "AMAROK",
+    "count": 328
+  },
+  {
+    "make": "VOLKSWAGEN",
+    "model": "ARTEON",
+    "count": 296
+  },
+  {
+    "make": "VOLKSWAGEN",
+    "model": "BEETLE",
+    "count": 472
+  },
+  {
+    "make": "VOLKSWAGEN",
+    "model": "BORA",
+    "count": 21
+  },
+  {
+    "make": "VOLKSWAGEN",
+    "model": "CADDY",
+    "count": 14
+  },
+  {
+    "make": "VOLKSWAGEN",
+    "model": "CADDY CAMPER",
+    "count": 1
+  },
+  {
+    "make": "VOLKSWAGEN",
+    "model": "CADDY LIFE",
+    "count": 27
+  },
+  {
+    "make": "VOLKSWAGEN",
+    "model": "CADDY MAXI",
+    "count": 161
+  },
+  {
+    "make": "VOLKSWAGEN",
+    "model": "CADDY MAXI LIFE",
+    "count": 165
+  },
+  {
+    "make": "VOLKSWAGEN",
+    "model": "CALIFORNIA",
+    "count": 44
+  },
+  {
+    "make": "VOLKSWAGEN",
+    "model": "CAMPERVAN",
+    "count": 40
+  },
+  {
+    "make": "VOLKSWAGEN",
+    "model": "CARAVELLE",
+    "count": 219
+  },
+  {
+    "make": "VOLKSWAGEN",
+    "model": "CC",
+    "count": 391
+  },
+  {
+    "make": "VOLKSWAGEN",
+    "model": "CORRADO",
+    "count": 8
+  },
+  {
+    "make": "VOLKSWAGEN",
+    "model": "EOS",
+    "count": 102
+  },
+  {
+    "make": "VOLKSWAGEN",
+    "model": "FOX",
+    "count": 141
+  },
+  {
+    "make": "VOLKSWAGEN",
+    "model": "GOLF",
+    "count": 11695
+  },
+  {
+    "make": "VOLKSWAGEN",
+    "model": "GOLF PLUS",
+    "count": 143
+  },
+  {
+    "make": "VOLKSWAGEN",
+    "model": "GOLF SV",
+    "count": 361
+  },
+  {
+    "make": "VOLKSWAGEN",
+    "model": "JETTA",
+    "count": 153
+  },
+  {
+    "make": "VOLKSWAGEN",
+    "model": "KARMANN",
+    "count": 2
+  },
+  {
+    "make": "VOLKSWAGEN",
+    "model": "LUPO",
+    "count": 20
+  },
+  {
+    "make": "VOLKSWAGEN",
+    "model": "PASSAT",
+    "count": 2630
+  },
+  {
+    "make": "VOLKSWAGEN",
+    "model": "PHAETON",
+    "count": 26
+  },
+  {
+    "make": "VOLKSWAGEN",
+    "model": "POLO",
+    "count": 7264
+  },
+  {
+    "make": "VOLKSWAGEN",
+    "model": "SCIROCCO",
+    "count": 1108
+  },
+  {
+    "make": "VOLKSWAGEN",
+    "model": "SHARAN",
+    "count": 529
+  },
+  {
+    "make": "VOLKSWAGEN",
+    "model": "T-CROSS",
+    "count": 365
+  },
+  {
+    "make": "VOLKSWAGEN",
+    "model": "T-ROC",
+    "count": 869
+  },
+  {
+    "make": "VOLKSWAGEN",
+    "model": "TIGUAN",
+    "count": 3150
+  },
+  {
+    "make": "VOLKSWAGEN",
+    "model": "TIGUAN ALLSPACE",
+    "count": 98
+  },
+  {
+    "make": "VOLKSWAGEN",
+    "model": "TOUAREG",
+    "count": 572
+  },
+  {
+    "make": "VOLKSWAGEN",
+    "model": "TOURAN",
+    "count": 884
+  },
+  {
+    "make": "VOLKSWAGEN",
+    "model": "TRANSPORTER",
+    "count": 586
+  },
+  {
+    "make": "VOLKSWAGEN",
+    "model": "TRANSPORTER SHUTTLE",
+    "count": 163
+  },
+  {
+    "make": "VOLKSWAGEN",
+    "model": "TRANSPORTER SPORTLINE",
+    "count": 25
+  },
+  {
+    "make": "VOLKSWAGEN",
+    "model": "UP!",
+    "count": 1516
+  },
+  {
+    "make": "ABARTH",
+    "model": "124 SPIDER",
+    "count": 73
+  },
+  {
+    "make": "ABARTH",
+    "model": "500",
+    "count": 112
+  },
+  {
+    "make": "ABARTH",
+    "model": "500C",
+    "count": 24
+  },
+  {
+    "make": "ABARTH",
+    "model": "595",
+    "count": 572
+  },
+  {
+    "make": "ABARTH",
+    "model": "595C",
+    "count": 82
+  },
+  {
+    "make": "ABARTH",
+    "model": "695",
+    "count": 21
+  },
+  {
+    "make": "ABARTH",
+    "model": "695C",
+    "count": 2
+  },
+  {
+    "make": "ABARTH",
+    "model": "GRANDE PUNTO",
+    "count": 4
+  },
+  {
+    "make": "ABARTH",
+    "model": "PUNTO EVO",
+    "count": 3
+  },
+  {
+    "make": "AC",
+    "model": "COBRA",
+    "count": 3
+  },
+  {
+    "make": "AC",
+    "model": "DAX COBRA",
+    "count": 1
+  },
+  {
+    "make": "AIXAM",
+    "model": "CROSSLINE",
+    "count": 1
+  },
+  {
+    "make": "AK",
+    "model": "COBRA",
+    "count": 2
+  },
+  {
+    "make": "ALFA ROMEO",
+    "model": "146",
+    "count": 2
+  },
+  {
+    "make": "ALFA ROMEO",
+    "model": "147",
+    "count": 35
+  },
+  {
+    "make": "ALFA ROMEO",
+    "model": "156",
+    "count": 10
+  },
+  {
+    "make": "ALFA ROMEO",
+    "model": "156 SPORTWAGON",
+    "count": 1
+  },
+  {
+    "make": "ALFA ROMEO",
+    "model": "159",
+    "count": 38
+  },
+  {
+    "make": "ALFA ROMEO",
+    "model": "159 SPORTWAGON",
+    "count": 15
+  },
+  {
+    "make": "ALFA ROMEO",
+    "model": "164",
+    "count": 1
+  },
+  {
+    "make": "ALFA ROMEO",
+    "model": "166",
+    "count": 1
+  },
+  {
+    "make": "ALFA ROMEO",
+    "model": "2000",
+    "count": 2
+  },
+  {
+    "make": "ALFA ROMEO",
+    "model": "33",
+    "count": 1
+  },
+  {
+    "make": "ALFA ROMEO",
+    "model": "4C",
+    "count": 13
+  },
+  {
+    "make": "ALFA ROMEO",
+    "model": "BRERA",
+    "count": 20
+  },
+  {
+    "make": "ALFA ROMEO",
+    "model": "GIULIA",
+    "count": 239
+  },
+  {
+    "make": "ALFA ROMEO",
+    "model": "GIULIETTA",
+    "count": 402
+  },
+  {
+    "make": "ALFA ROMEO",
+    "model": "GT",
+    "count": 30
+  },
+  {
+    "make": "ALFA ROMEO",
+    "model": "GTV",
+    "count": 17
+  },
+  {
+    "make": "ALFA ROMEO",
+    "model": "MITO",
+    "count": 336
+  },
+  {
+    "make": "ALFA ROMEO",
+    "model": "SPIDER",
+    "count": 34
+  },
+  {
+    "make": "ALFA ROMEO",
+    "model": "STELVIO",
+    "count": 127
+  },
+  {
+    "make": "ALFA ROMEO",
+    "model": "SZ",
+    "count": 1
+  },
+  {
+    "make": "ALPINE",
+    "model": "A110",
+    "count": 12
+  },
+  {
+    "make": "ARIEL",
+    "model": "ATOM",
+    "count": 2
+  },
+  {
+    "make": "ASTON MARTIN",
+    "model": "CYGNET",
+    "count": 5
+  },
+  {
+    "make": "ASTON MARTIN",
+    "model": "DB11",
+    "count": 83
+  },
+  {
+    "make": "ASTON MARTIN",
+    "model": "DB2",
+    "count": 3
+  },
+  {
+    "make": "ASTON MARTIN",
+    "model": "DB4",
+    "count": 3
+  },
+  {
+    "make": "ASTON MARTIN",
+    "model": "DB5",
+    "count": 4
+  },
+  {
+    "make": "ASTON MARTIN",
+    "model": "DB6",
+    "count": 10
+  },
+  {
+    "make": "ASTON MARTIN",
+    "model": "DB7",
+    "count": 34
+  },
+  {
+    "make": "ASTON MARTIN",
+    "model": "DB9",
+    "count": 117
+  },
+  {
+    "make": "ASTON MARTIN",
+    "model": "DBS",
+    "count": 75
+  },
+  {
+    "make": "ASTON MARTIN",
+    "model": "DBX",
+    "count": 1
+  },
+  {
+    "make": "ASTON MARTIN",
+    "model": "LE MANS",
+    "count": 1
+  },
+  {
+    "make": "ASTON MARTIN",
+    "model": "RAPIDE",
+    "count": 12
+  },
+  {
+    "make": "ASTON MARTIN",
+    "model": "RAPIDE S",
+    "count": 13
+  },
+  {
+    "make": "ASTON MARTIN",
+    "model": "V8",
+    "count": 8
+  },
+  {
+    "make": "ASTON MARTIN",
+    "model": "VANQUISH",
+    "count": 89
+  },
+  {
+    "make": "ASTON MARTIN",
+    "model": "VANTAGE",
+    "count": 270
+  },
+  {
+    "make": "ASTON MARTIN",
+    "model": "VIRAGE",
+    "count": 9
+  },
+  {
+    "make": "ASTON MARTIN",
+    "model": "VOLANTE",
+    "count": 1
+  },
+  {
+    "make": "AUSTIN",
+    "model": "A35",
+    "count": 1
+  },
+  {
+    "make": "AUSTIN",
+    "model": "A40",
+    "count": 1
+  },
+  {
+    "make": "AUSTIN",
+    "model": "AMBASSADOR",
+    "count": 1
+  },
+  {
+    "make": "AUSTIN",
+    "model": "COOPER",
+    "count": 2
+  },
+  {
+    "make": "AUSTIN",
+    "model": "HEALEY",
+    "count": 8
+  },
+  {
+    "make": "AUSTIN",
+    "model": "MAESTRO",
+    "count": 1
+  },
+  {
+    "make": "AUSTIN",
+    "model": "METRO",
+    "count": 2
+  },
+  {
+    "make": "AUSTIN",
+    "model": "MINI",
+    "count": 10
+  },
+  {
+    "make": "AUSTIN",
+    "model": "SEVEN",
+    "count": 2
+  },
+  {
+    "make": "AUSTIN",
+    "model": "TWELVE",
+    "count": 1
+  },
+  {
+    "make": "BAC",
+    "model": "MONO",
+    "count": 3
+  },
+  {
+    "make": "BEAUFORD",
+    "model": "SERIES 3",
+    "count": 1
+  },
+  {
+    "make": "BENTLEY",
+    "model": "ARNAGE",
+    "count": 54
+  },
+  {
+    "make": "BENTLEY",
+    "model": "AZURE",
+    "count": 10
+  },
+  {
+    "make": "BENTLEY",
+    "model": "BENTAYGA",
+    "count": 147
+  },
+  {
+    "make": "BENTLEY",
+    "model": "BROOKLANDS",
+    "count": 13
+  },
+  {
+    "make": "BENTLEY",
+    "model": "CONTINENTAL",
+    "count": 669
+  },
+  {
+    "make": "BENTLEY",
+    "model": "EIGHT",
+    "count": 1
+  },
+  {
+    "make": "BENTLEY",
+    "model": "FLYING SPUR",
+    "count": 63
+  },
+  {
+    "make": "BENTLEY",
+    "model": "MULSANNE",
+    "count": 71
+  },
+  {
+    "make": "BENTLEY",
+    "model": "SERIES I",
+    "count": 1
+  },
+  {
+    "make": "BENTLEY",
+    "model": "SERIES II",
+    "count": 1
+  },
+  {
+    "make": "BENTLEY",
+    "model": "T SERIES",
+    "count": 4
+  },
+  {
+    "make": "BENTLEY",
+    "model": "TURBO R",
+    "count": 15
+  },
+  {
+    "make": "BENTLEY",
+    "model": "TURBO RT",
+    "count": 1
+  },
+  {
+    "make": "BRISTOL",
+    "model": "BLENHEIM",
+    "count": 1
+  },
+  {
+    "make": "BUGATTI",
+    "model": "CHIRON",
+    "count": 2
+  },
+  {
+    "make": "BUGATTI",
+    "model": "VEYRON",
+    "count": 7
+  },
+  {
+    "make": "BUICK",
+    "model": "RIVIERA",
+    "count": 1
+  },
+  {
+    "make": "BUICK",
+    "model": "SKYLARK",
+    "count": 1
+  },
+  {
+    "make": "CADILLAC",
+    "model": "BLS",
+    "count": 6
+  },
+  {
+    "make": "CADILLAC",
+    "model": "CTS",
+    "count": 2
+  },
+  {
+    "make": "CADILLAC",
+    "model": "DE VILLE",
+    "count": 1
+  },
+  {
+    "make": "CADILLAC",
+    "model": "ESCALADE",
+    "count": 3
+  },
+  {
+    "make": "CADILLAC",
+    "model": "SEVILLE",
+    "count": 1
+  },
+  {
+    "make": "CADILLAC",
+    "model": "STS",
+    "count": 1
+  },
+  {
+    "make": "CARBODIES",
+    "model": "BLACK CAB",
+    "count": 1
+  },
+  {
+    "make": "CATERHAM",
+    "model": "SEVEN",
+    "count": 19
+  },
+  {
+    "make": "CHEVROLET",
+    "model": "ASTRO",
+    "count": 1
+  },
+  {
+    "make": "CHEVROLET",
+    "model": "AVEO",
+    "count": 75
+  },
+  {
+    "make": "CHEVROLET",
+    "model": "C10",
+    "count": 3
+  },
+  {
+    "make": "CHEVROLET",
+    "model": "CAMARO",
+    "count": 19
+  },
+  {
+    "make": "CHEVROLET",
+    "model": "CAPTIVA",
+    "count": 80
+  },
+  {
+    "make": "CHEVROLET",
+    "model": "CHEVY",
+    "count": 1
+  },
+  {
+    "make": "CHEVROLET",
+    "model": "CORVETTE",
+    "count": 16
+  },
+  {
+    "make": "CHEVROLET",
+    "model": "CRUZE",
+    "count": 49
+  },
+  {
+    "make": "CHEVROLET",
+    "model": "EL CAMINO",
+    "count": 1
+  },
+  {
+    "make": "CHEVROLET",
+    "model": "EPICA",
+    "count": 2
+  },
+  {
+    "make": "CHEVROLET",
+    "model": "KALOS",
+    "count": 25
+  },
+  {
+    "make": "CHEVROLET",
+    "model": "LACETTI",
+    "count": 29
+  },
+  {
+    "make": "CHEVROLET",
+    "model": "MATIZ",
+    "count": 78
+  },
+  {
+    "make": "CHEVROLET",
+    "model": "ORLANDO",
+    "count": 32
+  },
+  {
+    "make": "CHEVROLET",
+    "model": "SPARK",
+    "count": 120
+  },
+  {
+    "make": "CHEVROLET",
+    "model": "SSR",
+    "count": 1
+  },
+  {
+    "make": "CHEVROLET",
+    "model": "TACUMA",
+    "count": 8
+  },
+  {
+    "make": "CHEVROLET",
+    "model": "TRAX",
+    "count": 20
+  },
+  {
+    "make": "CHEVROLET",
+    "model": "VOLT",
+    "count": 3
+  },
+  {
+    "make": "CHRYSLER",
+    "model": "300C",
+    "count": 52
+  },
+  {
+    "make": "CHRYSLER",
+    "model": "CROSSFIRE",
+    "count": 28
+  },
+  {
+    "make": "CHRYSLER",
+    "model": "DELTA",
+    "count": 6
+  },
+  {
+    "make": "CHRYSLER",
+    "model": "GRAND VOYAGER",
+    "count": 57
+  },
+  {
+    "make": "CHRYSLER",
+    "model": "NEON",
+    "count": 2
+  },
+  {
+    "make": "CHRYSLER",
+    "model": "PT CRUISER",
+    "count": 15
+  },
+  {
+    "make": "CHRYSLER",
+    "model": "SEBRING",
+    "count": 5
+  },
+  {
+    "make": "CHRYSLER",
+    "model": "VIPER",
+    "count": 1
+  },
+  {
+    "make": "CHRYSLER",
+    "model": "VOYAGER",
+    "count": 12
+  },
+  {
+    "make": "CHRYSLER",
+    "model": "YPSILON",
+    "count": 29
+  },
+  {
+    "make": "CITROEN",
+    "model": "2 CV",
+    "count": 7
+  },
+  {
+    "make": "CITROEN",
+    "model": "BERLINGO",
+    "count": 421
+  },
+  {
+    "make": "CITROEN",
+    "model": "C-CROSSER",
+    "count": 14
+  },
+  {
+    "make": "CITROEN",
+    "model": "C-ZERO",
+    "count": 5
+  },
+  {
+    "make": "CITROEN",
+    "model": "C1",
+    "count": 2045
+  },
+  {
+    "make": "CITROEN",
+    "model": "C2",
+    "count": 74
+  },
+  {
+    "make": "CITROEN",
+    "model": "C3",
+    "count": 1922
+  },
+  {
+    "make": "CITROEN",
+    "model": "C3 AIRCROSS",
+    "count": 679
+  },
+  {
+    "make": "CITROEN",
+    "model": "C3 PICASSO",
+    "count": 474
+  },
+  {
+    "make": "CITROEN",
+    "model": "C3 PLURIEL",
+    "count": 8
+  },
+  {
+    "make": "CITROEN",
+    "model": "C4",
+    "count": 332
+  },
+  {
+    "make": "CITROEN",
+    "model": "C4 CACTUS",
+    "count": 971
+  },
+  {
+    "make": "CITROEN",
+    "model": "C4 PICASSO",
+    "count": 477
+  },
+  {
+    "make": "CITROEN",
+    "model": "C4 SPACETOURER",
+    "count": 29
+  },
+  {
+    "make": "CITROEN",
+    "model": "C5",
+    "count": 92
+  },
+  {
+    "make": "CITROEN",
+    "model": "C5 AIRCROSS",
+    "count": 213
+  },
+  {
+    "make": "CITROEN",
+    "model": "C6",
+    "count": 5
+  },
+  {
+    "make": "CITROEN",
+    "model": "C8",
+    "count": 12
+  },
+  {
+    "make": "CITROEN",
+    "model": "DISPATCH",
+    "count": 32
+  },
+  {
+    "make": "CITROEN",
+    "model": "DS3",
+    "count": 921
+  },
+  {
+    "make": "CITROEN",
+    "model": "DS3 CABRIO",
+    "count": 61
+  },
+  {
+    "make": "CITROEN",
+    "model": "DS4",
+    "count": 159
+  },
+  {
+    "make": "CITROEN",
+    "model": "DS5",
+    "count": 81
+  },
+  {
+    "make": "CITROEN",
+    "model": "GRAND C4 PICASSO",
+    "count": 1113
+  },
+  {
+    "make": "CITROEN",
+    "model": "GRAND C4 SPACETOURER",
+    "count": 108
+  },
+  {
+    "make": "CITROEN",
+    "model": "NEMO MULTISPACE",
+    "count": 15
+  },
+  {
+    "make": "CITROEN",
+    "model": "RELAY",
+    "count": 4
+  },
+  {
+    "make": "CITROEN",
+    "model": "SAXO",
+    "count": 16
+  },
+  {
+    "make": "CITROEN",
+    "model": "SM",
+    "count": 1
+  },
+  {
+    "make": "CITROEN",
+    "model": "SPACETOURER",
+    "count": 64
+  },
+  {
+    "make": "CITROEN",
+    "model": "XANTIA",
+    "count": 1
+  },
+  {
+    "make": "CITROEN",
+    "model": "XSARA",
+    "count": 9
+  },
+  {
+    "make": "CITROEN",
+    "model": "XSARA PICASSO",
+    "count": 127
+  },
+  {
+    "make": "CITROEN",
+    "model": "ZX",
+    "count": 1
+  },
+  {
+    "make": "CORVETTE",
+    "model": "C5",
+    "count": 1
+  },
+  {
+    "make": "CORVETTE",
+    "model": "STINGRAY",
+    "count": 1
+  },
+  {
+    "make": "CORVETTE",
+    "model": "Z06",
+    "count": 1
+  },
+  {
+    "make": "CORVETTE",
+    "model": "ZR1",
+    "count": 1
+  },
+  {
+    "make": "CUPRA",
+    "model": "ATECA",
+    "count": 18
+  },
+  {
+    "make": "CUSTOM VEHICLE",
+    "model": "REPLICA",
+    "count": 1
+  },
+  {
+    "make": "DACIA",
+    "model": "DUSTER",
+    "count": 1050
+  },
+  {
+    "make": "DACIA",
+    "model": "LOGAN MCV",
+    "count": 129
+  },
+  {
+    "make": "DACIA",
+    "model": "LOGAN MCV STEPWAY",
+    "count": 41
+  },
+  {
+    "make": "DACIA",
+    "model": "SANDERO",
+    "count": 550
+  },
+  {
+    "make": "DACIA",
+    "model": "SANDERO STEPWAY",
+    "count": 790
+  },
+  {
+    "make": "DAEWOO",
+    "model": "KALOS",
+    "count": 4
+  },
+  {
+    "make": "DAEWOO",
+    "model": "LANOS",
+    "count": 1
+  },
+  {
+    "make": "DAEWOO",
+    "model": "MATIZ",
+    "count": 6
+  },
+  {
+    "make": "DAEWOO",
+    "model": "NUBIRA",
+    "count": 1
+  },
+  {
+    "make": "DAIHATSU",
+    "model": "ATRAI 7",
+    "count": 1
+  },
+  {
+    "make": "DAIHATSU",
+    "model": "CHARADE",
+    "count": 10
+  },
+  {
+    "make": "DAIHATSU",
+    "model": "COPEN",
+    "count": 6
+  },
+  {
+    "make": "DAIHATSU",
+    "model": "MATERIA",
+    "count": 2
+  },
+  {
+    "make": "DAIHATSU",
+    "model": "SIRION",
+    "count": 35
+  },
+  {
+    "make": "DAIHATSU",
+    "model": "TANTO",
+    "count": 1
+  },
+  {
+    "make": "DAIHATSU",
+    "model": "TERIOS",
+    "count": 26
+  },
+  {
+    "make": "DAIHATSU",
+    "model": "YRV",
+    "count": 1
+  },
+  {
+    "make": "DAIMLER",
+    "model": "DOUBLE SIX",
+    "count": 7
+  },
+  {
+    "make": "DAIMLER",
+    "model": "LIMOUSINE",
+    "count": 1
+  },
+  {
+    "make": "DAIMLER",
+    "model": "SALOON",
+    "count": 2
+  },
+  {
+    "make": "DAIMLER",
+    "model": "SOVEREIGN",
+    "count": 4
+  },
+  {
+    "make": "DAIMLER",
+    "model": "SP",
+    "count": 1
+  },
+  {
+    "make": "DAIMLER",
+    "model": "SUPER EIGHT",
+    "count": 1
+  },
+  {
+    "make": "DAIMLER",
+    "model": "V8-250",
+    "count": 1
+  },
+  {
+    "make": "DAIMLER",
+    "model": "XJ SERIES",
+    "count": 9
+  },
+  {
+    "make": "DATSUN",
+    "model": "240Z",
+    "count": 1
+  },
+  {
+    "make": "DAX",
+    "model": "TOJEIRO",
+    "count": 1
+  },
+  {
+    "make": "DODGE",
+    "model": "AVENGER",
+    "count": 1
+  },
+  {
+    "make": "DODGE",
+    "model": "CALIBER",
+    "count": 15
+  },
+  {
+    "make": "DODGE",
+    "model": "CHALLENGER",
+    "count": 15
+  },
+  {
+    "make": "DODGE",
+    "model": "CHARGER",
+    "count": 3
+  },
+  {
+    "make": "DODGE",
+    "model": "DURANGO",
+    "count": 1
+  },
+  {
+    "make": "DODGE",
+    "model": "JOURNEY",
+    "count": 11
+  },
+  {
+    "make": "DODGE",
+    "model": "NITRO",
+    "count": 13
+  },
+  {
+    "make": "DODGE",
+    "model": "RAM",
+    "count": 16
+  },
+  {
+    "make": "DODGE",
+    "model": "VIPER",
+    "count": 7
+  },
+  {
+    "make": "DS AUTOMOBILES",
+    "model": "DS 3",
+    "count": 803
+  },
+  {
+    "make": "DS AUTOMOBILES",
+    "model": "DS 3 CABRIO",
+    "count": 51
+  },
+  {
+    "make": "DS AUTOMOBILES",
+    "model": "DS 3 CROSSBACK",
+    "count": 126
+  },
+  {
+    "make": "DS AUTOMOBILES",
+    "model": "DS 4",
+    "count": 108
+  },
+  {
+    "make": "DS AUTOMOBILES",
+    "model": "DS 4 CROSSBACK",
+    "count": 26
+  },
+  {
+    "make": "DS AUTOMOBILES",
+    "model": "DS 5",
+    "count": 47
+  },
+  {
+    "make": "DS AUTOMOBILES",
+    "model": "DS 7 CROSSBACK",
+    "count": 90
+  },
+  {
+    "make": "FERRARI",
+    "model": "246",
+    "count": 1
+  },
+  {
+    "make": "FERRARI",
+    "model": "250",
+    "count": 1
+  },
+  {
+    "make": "FERRARI",
+    "model": "275",
+    "count": 2
+  },
+  {
+    "make": "FERRARI",
+    "model": "308",
+    "count": 5
+  },
+  {
+    "make": "FERRARI",
+    "model": "328",
+    "count": 5
+  },
+  {
+    "make": "FERRARI",
+    "model": "348",
+    "count": 9
+  },
+  {
+    "make": "FERRARI",
+    "model": "355 F1",
+    "count": 6
+  },
+  {
+    "make": "FERRARI",
+    "model": "360",
+    "count": 56
+  },
+  {
+    "make": "FERRARI",
+    "model": "365",
+    "count": 6
+  },
+  {
+    "make": "FERRARI",
+    "model": "400",
+    "count": 1
+  },
+  {
+    "make": "FERRARI",
+    "model": "430",
+    "count": 11
+  },
+  {
+    "make": "FERRARI",
+    "model": "456",
+    "count": 3
+  },
+  {
+    "make": "FERRARI",
+    "model": "456M",
+    "count": 2
+  },
+  {
+    "make": "FERRARI",
+    "model": "458",
+    "count": 108
+  },
+  {
+    "make": "FERRARI",
+    "model": "488",
+    "count": 139
+  },
+  {
+    "make": "FERRARI",
+    "model": "488 PISTA",
+    "count": 35
+  },
+  {
+    "make": "FERRARI",
+    "model": "512",
+    "count": 6
+  },
+  {
+    "make": "FERRARI",
+    "model": "550",
+    "count": 6
+  },
+  {
+    "make": "FERRARI",
+    "model": "575M",
+    "count": 8
+  },
+  {
+    "make": "FERRARI",
+    "model": "599",
+    "count": 37
+  },
+  {
+    "make": "FERRARI",
+    "model": "612",
+    "count": 13
+  },
+  {
+    "make": "FERRARI",
+    "model": "812 SUPERFAST",
+    "count": 49
+  },
+  {
+    "make": "FERRARI",
+    "model": "CALIFORNIA",
+    "count": 102
+  },
+  {
+    "make": "FERRARI",
+    "model": "DAYTONA",
+    "count": 1
+  },
+  {
+    "make": "FERRARI",
+    "model": "DINO",
+    "count": 4
+  },
+  {
+    "make": "FERRARI",
+    "model": "ENZO",
+    "count": 1
+  },
+  {
+    "make": "FERRARI",
+    "model": "F12BERLINETTA",
+    "count": 30
+  },
+  {
+    "make": "FERRARI",
+    "model": "F12TDF",
+    "count": 3
+  },
+  {
+    "make": "FERRARI",
+    "model": "F355",
+    "count": 17
+  },
+  {
+    "make": "FERRARI",
+    "model": "F40",
+    "count": 2
+  },
+  {
+    "make": "FERRARI",
+    "model": "F430",
+    "count": 59
+  },
+  {
+    "make": "FERRARI",
+    "model": "F512",
+    "count": 1
+  },
+  {
+    "make": "FERRARI",
+    "model": "F8 TRIBUTO",
+    "count": 13
+  },
+  {
+    "make": "FERRARI",
+    "model": "FF",
+    "count": 28
+  },
+  {
+    "make": "FERRARI",
+    "model": "GTC4LUSSO",
+    "count": 37
+  },
+  {
+    "make": "FERRARI",
+    "model": "LAFERRARI",
+    "count": 7
+  },
+  {
+    "make": "FERRARI",
+    "model": "MONDIAL",
+    "count": 3
+  },
+  {
+    "make": "FERRARI",
+    "model": "PORTOFINO",
+    "count": 35
+  },
+  {
+    "make": "FERRARI",
+    "model": "SCUDERIA SPIDER",
+    "count": 1
+  },
+  {
+    "make": "FERRARI",
+    "model": "SUPERAMERICA",
+    "count": 4
+  },
+  {
+    "make": "FERRARI",
+    "model": "TESTAROSSA",
+    "count": 7
+  },
+  {
+    "make": "FIAT",
+    "model": "124 SPIDER",
+    "count": 92
+  },
+  {
+    "make": "FIAT",
+    "model": "126",
+    "count": 1
+  },
+  {
+    "make": "FIAT",
+    "model": "127",
+    "count": 1
+  },
+  {
+    "make": "FIAT",
+    "model": "500",
+    "count": 4488
+  },
+  {
+    "make": "FIAT",
+    "model": "500C",
+    "count": 393
+  },
+  {
+    "make": "FIAT",
+    "model": "500L",
+    "count": 302
+  },
+  {
+    "make": "FIAT",
+    "model": "500X",
+    "count": 728
+  },
+  {
+    "make": "FIAT",
+    "model": "ABARTH",
+    "count": 1
+  },
+  {
+    "make": "FIAT",
+    "model": "BARCHETTA",
+    "count": 1
+  },
+  {
+    "make": "FIAT",
+    "model": "BRAVO",
+    "count": 54
+  },
+  {
+    "make": "FIAT",
+    "model": "COUPE",
+    "count": 4
+  },
+  {
+    "make": "FIAT",
+    "model": "CROMA",
+    "count": 3
+  },
+  {
+    "make": "FIAT",
+    "model": "DOBLO",
+    "count": 98
+  },
+  {
+    "make": "FIAT",
+    "model": "DUCATO",
+    "count": 10
+  },
+  {
+    "make": "FIAT",
+    "model": "FIORINO",
+    "count": 5
+  },
+  {
+    "make": "FIAT",
+    "model": "FULLBACK",
+    "count": 102
+  },
+  {
+    "make": "FIAT",
+    "model": "GRANDE PUNTO",
+    "count": 265
+  },
+  {
+    "make": "FIAT",
+    "model": "IDEA",
+    "count": 1
+  },
+  {
+    "make": "FIAT",
+    "model": "MULTIPLA",
+    "count": 6
+  },
+  {
+    "make": "FIAT",
+    "model": "PANDA",
+    "count": 666
+  },
+  {
+    "make": "FIAT",
+    "model": "PININFARINA",
+    "count": 1
+  },
+  {
+    "make": "FIAT",
+    "model": "PUNTO",
+    "count": 228
+  },
+  {
+    "make": "FIAT",
+    "model": "PUNTO EVO",
+    "count": 125
+  },
+  {
+    "make": "FIAT",
+    "model": "QUBO",
+    "count": 40
+  },
+  {
+    "make": "FIAT",
+    "model": "REGATA",
+    "count": 1
+  },
+  {
+    "make": "FIAT",
+    "model": "SCUDO",
+    "count": 14
+  },
+  {
+    "make": "FIAT",
+    "model": "SEDICI",
+    "count": 6
+  },
+  {
+    "make": "FIAT",
+    "model": "SEICENTO",
+    "count": 5
+  },
+  {
+    "make": "FIAT",
+    "model": "SPIDER",
+    "count": 2
+  },
+  {
+    "make": "FIAT",
+    "model": "STILO",
+    "count": 5
+  },
+  {
+    "make": "FIAT",
+    "model": "TALENTO",
+    "count": 10
+  },
+  {
+    "make": "FIAT",
+    "model": "TEMPRA",
+    "count": 1
+  },
+  {
+    "make": "FIAT",
+    "model": "TIPO",
+    "count": 286
+  },
+  {
+    "make": "FIAT",
+    "model": "UNO",
+    "count": 1
+  },
+  {
+    "make": "FISKER",
+    "model": "KARMA",
+    "count": 1
+  },
+  {
+    "make": "GENTRY",
+    "model": "TF",
+    "count": 1
+  },
+  {
+    "make": "GMC",
+    "model": "PICKUP",
+    "count": 1
+  },
+  {
+    "make": "GMC",
+    "model": "SIERRA",
+    "count": 2
+  },
+  {
+    "make": "GMC",
+    "model": "SYCLONE",
+    "count": 1
+  },
+  {
+    "make": "GREAT WALL",
+    "model": "STEED",
+    "count": 14
+  },
+  {
+    "make": "HOLDEN",
+    "model": "COMMODORE",
+    "count": 1
+  },
+  {
+    "make": "HOLDEN",
+    "model": "HSV",
+    "count": 3
+  },
+  {
+    "make": "HOLDEN",
+    "model": "SS",
+    "count": 1
+  },
+  {
+    "make": "HUMMER",
+    "model": "H2",
+    "count": 7
+  },
+  {
+    "make": "HUMMER",
+    "model": "H3",
+    "count": 2
+  },
+  {
+    "make": "HYUNDAI",
+    "model": "ACCENT",
+    "count": 9
+  },
+  {
+    "make": "HYUNDAI",
+    "model": "AMICA",
+    "count": 33
+  },
+  {
+    "make": "HYUNDAI",
+    "model": "ATOZ",
+    "count": 2
+  },
+  {
+    "make": "HYUNDAI",
+    "model": "COUPE",
+    "count": 49
+  },
+  {
+    "make": "HYUNDAI",
+    "model": "GALLOPER",
+    "count": 1
+  },
+  {
+    "make": "HYUNDAI",
+    "model": "GENESIS",
+    "count": 1
+  },
+  {
+    "make": "HYUNDAI",
+    "model": "GETZ",
+    "count": 98
+  },
+  {
+    "make": "HYUNDAI",
+    "model": "I10",
+    "count": 2356
+  },
+  {
+    "make": "HYUNDAI",
+    "model": "I20",
+    "count": 1241
+  },
+  {
+    "make": "HYUNDAI",
+    "model": "I30",
+    "count": 1218
+  },
+  {
+    "make": "HYUNDAI",
+    "model": "I40",
+    "count": 401
+  },
+  {
+    "make": "HYUNDAI",
+    "model": "I800",
+    "count": 144
+  },
+  {
+    "make": "HYUNDAI",
+    "model": "ILOAD",
+    "count": 1
+  },
+  {
+    "make": "HYUNDAI",
+    "model": "IONIQ",
+    "count": 761
+  },
+  {
+    "make": "HYUNDAI",
+    "model": "IX20",
+    "count": 461
+  },
+  {
+    "make": "HYUNDAI",
+    "model": "IX35",
+    "count": 562
+  },
+  {
+    "make": "HYUNDAI",
+    "model": "KONA",
+    "count": 643
+  },
+  {
+    "make": "HYUNDAI",
+    "model": "MATRIX",
+    "count": 30
+  },
+  {
+    "make": "HYUNDAI",
+    "model": "S-COUPE",
+    "count": 4
+  },
+  {
+    "make": "HYUNDAI",
+    "model": "SANTA FE",
+    "count": 483
+  },
+  {
+    "make": "HYUNDAI",
+    "model": "SONATA",
+    "count": 4
+  },
+  {
+    "make": "HYUNDAI",
+    "model": "TERRACAN",
+    "count": 8
+  },
+  {
+    "make": "HYUNDAI",
+    "model": "TRAJET",
+    "count": 3
+  },
+  {
+    "make": "HYUNDAI",
+    "model": "TUCSON",
+    "count": 2508
+  },
+  {
+    "make": "HYUNDAI",
+    "model": "VELOSTER",
+    "count": 34
+  },
+  {
+    "make": "INFINITI",
+    "model": "EX",
+    "count": 6
+  },
+  {
+    "make": "INFINITI",
+    "model": "FX",
+    "count": 10
+  },
+  {
+    "make": "INFINITI",
+    "model": "G",
+    "count": 3
+  },
+  {
+    "make": "INFINITI",
+    "model": "M",
+    "count": 7
+  },
+  {
+    "make": "INFINITI",
+    "model": "Q30",
+    "count": 114
+  },
+  {
+    "make": "INFINITI",
+    "model": "Q50",
+    "count": 46
+  },
+  {
+    "make": "INFINITI",
+    "model": "Q60",
+    "count": 3
+  },
+  {
+    "make": "INFINITI",
+    "model": "Q70",
+    "count": 9
+  },
+  {
+    "make": "INFINITI",
+    "model": "QX30",
+    "count": 4
+  },
+  {
+    "make": "INFINITI",
+    "model": "QX50",
+    "count": 2
+  },
+  {
+    "make": "INFINITI",
+    "model": "QX56",
+    "count": 1
+  },
+  {
+    "make": "INFINITI",
+    "model": "QX70",
+    "count": 8
+  },
+  {
+    "make": "INTERNATIONAL",
+    "model": "HARVESTER A100",
+    "count": 1
+  },
+  {
+    "make": "ISUZU",
+    "model": "D-MAX",
+    "count": 292
+  },
+  {
+    "make": "ISUZU",
+    "model": "GEMINI",
+    "count": 1
+  },
+  {
+    "make": "ISUZU",
+    "model": "RODEO",
+    "count": 23
+  },
+  {
+    "make": "ISUZU",
+    "model": "TF",
+    "count": 2
+  },
+  {
+    "make": "ISUZU",
+    "model": "TROOPER",
+    "count": 3
+  },
+  {
+    "make": "IVECO",
+    "model": "DAILY",
+    "count": 2
+  },
+  {
+    "make": "JEEP",
+    "model": "CHEROKEE",
+    "count": 98
+  },
+  {
+    "make": "JEEP",
+    "model": "COMMANDER",
+    "count": 5
+  },
+  {
+    "make": "JEEP",
+    "model": "COMPASS",
+    "count": 213
+  },
+  {
+    "make": "JEEP",
+    "model": "GRAND CHEROKEE",
+    "count": 143
+  },
+  {
+    "make": "JEEP",
+    "model": "PATRIOT",
+    "count": 15
+  },
+  {
+    "make": "JEEP",
+    "model": "RENEGADE",
+    "count": 581
+  },
+  {
+    "make": "JEEP",
+    "model": "WRANGLER",
+    "count": 220
+  },
+  {
+    "make": "JENSEN",
+    "model": "INTERCEPTOR",
+    "count": 4
+  },
+  {
+    "make": "KIA",
+    "model": "CARENS",
+    "count": 245
+  },
+  {
+    "make": "KIA",
+    "model": "CEED",
+    "count": 1446
+  },
+  {
+    "make": "KIA",
+    "model": "CERATO",
+    "count": 5
+  },
+  {
+    "make": "KIA",
+    "model": "MAGENTIS",
+    "count": 2
+  },
+  {
+    "make": "KIA",
+    "model": "NIRO",
+    "count": 663
+  },
+  {
+    "make": "KIA",
+    "model": "OPTIMA",
+    "count": 250
+  },
+  {
+    "make": "KIA",
+    "model": "PICANTO",
+    "count": 1795
+  },
+  {
+    "make": "KIA",
+    "model": "PROCEED",
+    "count": 258
+  },
+  {
+    "make": "KIA",
+    "model": "RIO",
+    "count": 1036
+  },
+  {
+    "make": "KIA",
+    "model": "SEDONA",
+    "count": 69
+  },
+  {
+    "make": "KIA",
+    "model": "SORENTO",
+    "count": 427
+  },
+  {
+    "make": "KIA",
+    "model": "SOUL",
+    "count": 316
+  },
+  {
+    "make": "KIA",
+    "model": "SPORTAGE",
+    "count": 4386
+  },
+  {
+    "make": "KIA",
+    "model": "STINGER",
+    "count": 113
+  },
+  {
+    "make": "KIA",
+    "model": "STONIC",
+    "count": 394
+  },
+  {
+    "make": "KIA",
+    "model": "VENGA",
+    "count": 678
+  },
+  {
+    "make": "KIA",
+    "model": "XCEED",
+    "count": 198
+  },
+  {
+    "make": "KTM",
+    "model": "X-BOW",
+    "count": 1
+  },
+  {
+    "make": "LAMBORGHINI",
+    "model": "AVENTADOR",
+    "count": 87
+  },
+  {
+    "make": "LAMBORGHINI",
+    "model": "COUNTACH",
+    "count": 3
+  },
+  {
+    "make": "LAMBORGHINI",
+    "model": "DIABLO",
+    "count": 4
+  },
+  {
+    "make": "LAMBORGHINI",
+    "model": "GALLARDO",
+    "count": 76
+  },
+  {
+    "make": "LAMBORGHINI",
+    "model": "HURACAN",
+    "count": 109
+  },
+  {
+    "make": "LAMBORGHINI",
+    "model": "JALPA",
+    "count": 1
+  },
+  {
+    "make": "LAMBORGHINI",
+    "model": "MIURA",
+    "count": 1
+  },
+  {
+    "make": "LAMBORGHINI",
+    "model": "MURCIELAGO",
+    "count": 16
+  },
+  {
+    "make": "LAMBORGHINI",
+    "model": "URUS",
+    "count": 37
+  },
+  {
+    "make": "LANCIA",
+    "model": "DELTA",
+    "count": 2
+  },
+  {
+    "make": "LANCIA",
+    "model": "STRATOS",
+    "count": 1
+  },
+  {
+    "make": "LEVC",
+    "model": "TX",
+    "count": 10
+  },
+  {
+    "make": "LEXUS",
+    "model": "CT 200H",
+    "count": 618
+  },
+  {
+    "make": "LEXUS",
+    "model": "ES 300H",
+    "count": 56
+  },
+  {
+    "make": "LEXUS",
+    "model": "GS 250",
+    "count": 13
+  },
+  {
+    "make": "LEXUS",
+    "model": "GS 300",
+    "count": 69
+  },
+  {
+    "make": "LEXUS",
+    "model": "GS 430",
+    "count": 1
+  },
+  {
+    "make": "LEXUS",
+    "model": "GS 450H",
+    "count": 39
+  },
+  {
+    "make": "LEXUS",
+    "model": "GS F",
+    "count": 1
+  },
+  {
+    "make": "LEXUS",
+    "model": "GS UNSPECIFIED",
+    "count": 2
+  },
+  {
+    "make": "LEXUS",
+    "model": "IS 200",
+    "count": 40
+  },
+  {
+    "make": "LEXUS",
+    "model": "IS 220D",
+    "count": 49
+  },
+  {
+    "make": "LEXUS",
+    "model": "IS 250",
+    "count": 102
+  },
+  {
+    "make": "LEXUS",
+    "model": "IS 300",
+    "count": 436
+  },
+  {
+    "make": "LEXUS",
+    "model": "IS F",
+    "count": 9
+  },
+  {
+    "make": "LEXUS",
+    "model": "IS UNSPECIFIED",
+    "count": 9
+  },
+  {
+    "make": "LEXUS",
+    "model": "LC 500",
+    "count": 9
+  },
+  {
+    "make": "LEXUS",
+    "model": "LS 400",
+    "count": 5
+  },
+  {
+    "make": "LEXUS",
+    "model": "LS 430",
+    "count": 10
+  },
+  {
+    "make": "LEXUS",
+    "model": "LS 460",
+    "count": 13
+  },
+  {
+    "make": "LEXUS",
+    "model": "LS 500H",
+    "count": 1
+  },
+  {
+    "make": "LEXUS",
+    "model": "LS 600H",
+    "count": 6
+  },
+  {
+    "make": "LEXUS",
+    "model": "NX 300H",
+    "count": 522
+  },
+  {
+    "make": "LEXUS",
+    "model": "NX UNSPECIFIED",
+    "count": 26
+  },
+  {
+    "make": "LEXUS",
+    "model": "RC 200T",
+    "count": 1
+  },
+  {
+    "make": "LEXUS",
+    "model": "RC 300H",
+    "count": 86
+  },
+  {
+    "make": "LEXUS",
+    "model": "RC F",
+    "count": 8
+  },
+  {
+    "make": "LEXUS",
+    "model": "RX 200T",
+    "count": 1
+  },
+  {
+    "make": "LEXUS",
+    "model": "RX 300",
+    "count": 40
+  },
+  {
+    "make": "LEXUS",
+    "model": "RX 350",
+    "count": 9
+  },
+  {
+    "make": "LEXUS",
+    "model": "RX 400H",
+    "count": 80
+  },
+  {
+    "make": "LEXUS",
+    "model": "RX 450H",
+    "count": 376
+  },
+  {
+    "make": "LEXUS",
+    "model": "RX L 450H",
+    "count": 21
+  },
+  {
+    "make": "LEXUS",
+    "model": "RX UNSPECIFIED",
+    "count": 3
+  },
+  {
+    "make": "LEXUS",
+    "model": "SC 430",
+    "count": 21
+  },
+  {
+    "make": "LEXUS",
+    "model": "UX 250H",
+    "count": 261
+  },
+  {
+    "make": "LEYLAND",
+    "model": "MINI",
+    "count": 1
+  },
+  {
+    "make": "LINCOLN",
+    "model": "MKX",
+    "count": 2
+  },
+  {
+    "make": "LINCOLN",
+    "model": "NAVIGATOR",
+    "count": 2
+  },
+  {
+    "make": "LINCOLN",
+    "model": "TOWN CAR",
+    "count": 2
+  },
+  {
+    "make": "LONDON TAXIS INTERNATIONAL",
+    "model": "TX4",
+    "count": 14
+  },
+  {
+    "make": "LONDON TAXIS INTERNATIONAL",
+    "model": "TXI",
+    "count": 2
+  },
+  {
+    "make": "LONDON TAXIS INTERNATIONAL",
+    "model": "TXII",
+    "count": 8
+  },
+  {
+    "make": "LOTUS",
+    "model": "340R",
+    "count": 1
+  },
+  {
+    "make": "LOTUS",
+    "model": "ELAN",
+    "count": 11
+  },
+  {
+    "make": "LOTUS",
+    "model": "ELISE",
+    "count": 38
+  },
+  {
+    "make": "LOTUS",
+    "model": "ELISE S",
+    "count": 10
+  },
+  {
+    "make": "LOTUS",
+    "model": "ESPRIT",
+    "count": 7
+  },
+  {
+    "make": "LOTUS",
+    "model": "EUROPA",
+    "count": 1
+  },
+  {
+    "make": "LOTUS",
+    "model": "EVORA",
+    "count": 41
+  },
+  {
+    "make": "LOTUS",
+    "model": "EXIGE",
+    "count": 25
+  },
+  {
+    "make": "MASERATI",
+    "model": "222",
+    "count": 1
+  },
+  {
+    "make": "MASERATI",
+    "model": "3200",
+    "count": 7
+  },
+  {
+    "make": "MASERATI",
+    "model": "3500",
+    "count": 1
+  },
+  {
+    "make": "MASERATI",
+    "model": "4200",
+    "count": 3
+  },
+  {
+    "make": "MASERATI",
+    "model": "BITURBO",
+    "count": 1
+  },
+  {
+    "make": "MASERATI",
+    "model": "COUPE",
+    "count": 9
+  },
+  {
+    "make": "MASERATI",
+    "model": "GHIBLI",
+    "count": 127
+  },
+  {
+    "make": "MASERATI",
+    "model": "GRANCABRIO",
+    "count": 19
+  },
+  {
+    "make": "MASERATI",
+    "model": "GRANSPORT",
+    "count": 12
+  },
+  {
+    "make": "MASERATI",
+    "model": "GRANTURISMO",
+    "count": 85
+  },
+  {
+    "make": "MASERATI",
+    "model": "LEVANTE",
+    "count": 163
+  },
+  {
+    "make": "MASERATI",
+    "model": "QUATTROPORTE",
+    "count": 62
+  },
+  {
+    "make": "MASERATI",
+    "model": "SHAMAL",
+    "count": 1
+  },
+  {
+    "make": "MASERATI",
+    "model": "SPYDER",
+    "count": 4
+  },
+  {
+    "make": "MAYBACH",
+    "model": "57",
+    "count": 2
+  },
+  {
+    "make": "MAYBACH",
+    "model": "62",
+    "count": 4
+  },
+  {
+    "make": "MAZDA",
+    "model": "323",
+    "count": 6
+  },
+  {
+    "make": "MAZDA",
+    "model": "B2500",
+    "count": 2
+  },
+  {
+    "make": "MAZDA",
+    "model": "BIANTE",
+    "count": 1
+  },
+  {
+    "make": "MAZDA",
+    "model": "BONGO",
+    "count": 14
+  },
+  {
+    "make": "MAZDA",
+    "model": "BT-50",
+    "count": 3
+  },
+  {
+    "make": "MAZDA",
+    "model": "CX-3",
+    "count": 513
+  },
+  {
+    "make": "MAZDA",
+    "model": "CX-30",
+    "count": 119
+  },
+  {
+    "make": "MAZDA",
+    "model": "CX-5",
+    "count": 1017
+  },
+  {
+    "make": "MAZDA",
+    "model": "CX-7",
+    "count": 18
+  },
+  {
+    "make": "MAZDA",
+    "model": "DEMIO",
+    "count": 2
+  },
+  {
+    "make": "MAZDA",
+    "model": "EUNOS",
+    "count": 1
+  },
+  {
+    "make": "MAZDA",
+    "model": "MAZDA2",
+    "count": 1298
+  },
+  {
+    "make": "MAZDA",
+    "model": "MAZDA3",
+    "count": 1433
+  },
+  {
+    "make": "MAZDA",
+    "model": "MAZDA5",
+    "count": 127
+  },
+  {
+    "make": "MAZDA",
+    "model": "MAZDA6",
+    "count": 1063
+  },
+  {
+    "make": "MAZDA",
+    "model": "MPV",
+    "count": 1
+  },
+  {
+    "make": "MAZDA",
+    "model": "MX-5",
+    "count": 619
+  },
+  {
+    "make": "MAZDA",
+    "model": "MX-5 RF",
+    "count": 147
+  },
+  {
+    "make": "MAZDA",
+    "model": "PREMACY",
+    "count": 1
+  },
+  {
+    "make": "MAZDA",
+    "model": "RX-7",
+    "count": 1
+  },
+  {
+    "make": "MAZDA",
+    "model": "RX-8",
+    "count": 34
+  },
+  {
+    "make": "MCLAREN",
+    "model": "12C",
+    "count": 21
+  },
+  {
+    "make": "MCLAREN",
+    "model": "540C",
+    "count": 11
+  },
+  {
+    "make": "MCLAREN",
+    "model": "570GT",
+    "count": 17
+  },
+  {
+    "make": "MCLAREN",
+    "model": "570S",
+    "count": 46
+  },
+  {
+    "make": "MCLAREN",
+    "model": "600LT",
+    "count": 37
+  },
+  {
+    "make": "MCLAREN",
+    "model": "650S",
+    "count": 17
+  },
+  {
+    "make": "MCLAREN",
+    "model": "675LT",
+    "count": 11
+  },
+  {
+    "make": "MCLAREN",
+    "model": "720S",
+    "count": 49
+  },
+  {
+    "make": "MCLAREN",
+    "model": "GT",
+    "count": 21
+  },
+  {
+    "make": "MCLAREN",
+    "model": "P1",
+    "count": 5
+  },
+  {
+    "make": "MCLAREN",
+    "model": "SENNA",
+    "count": 16
+  },
+  {
+    "make": "MEV",
+    "model": "EXOCET",
+    "count": 1
+  },
+  {
+    "make": "MG",
+    "model": "GS",
+    "count": 47
+  },
+  {
+    "make": "MG",
+    "model": "METRO",
+    "count": 2
+  },
+  {
+    "make": "MG",
+    "model": "MG HS",
+    "count": 109
+  },
+  {
+    "make": "MG",
+    "model": "MG ZS",
+    "count": 391
+  },
+  {
+    "make": "MG",
+    "model": "MG3",
+    "count": 346
+  },
+  {
+    "make": "MG",
+    "model": "MG5",
+    "count": 4
+  },
+  {
+    "make": "MG",
+    "model": "MG6",
+    "count": 20
+  },
+  {
+    "make": "MG",
+    "model": "MGA",
+    "count": 1
+  },
+  {
+    "make": "MG",
+    "model": "MGB",
+    "count": 18
+  },
+  {
+    "make": "MG",
+    "model": "MGB GT",
+    "count": 18
+  },
+  {
+    "make": "MG",
+    "model": "MGC",
+    "count": 1
+  },
+  {
+    "make": "MG",
+    "model": "MGF",
+    "count": 20
+  },
+  {
+    "make": "MG",
+    "model": "MIDGET",
+    "count": 9
+  },
+  {
+    "make": "MG",
+    "model": "RV8",
+    "count": 5
+  },
+  {
+    "make": "MG",
+    "model": "TF",
+    "count": 32
+  },
+  {
+    "make": "MG",
+    "model": "XPOWER",
+    "count": 1
+  },
+  {
+    "make": "MG",
+    "model": "ZR",
+    "count": 10
+  },
+  {
+    "make": "MG",
+    "model": "ZT",
+    "count": 12
+  },
+  {
+    "make": "MG",
+    "model": "ZT-T",
+    "count": 2
+  },
+  {
+    "make": "MINI",
+    "model": "CLUBMAN",
+    "count": 1193
+  },
+  {
+    "make": "MINI",
+    "model": "CLUBVAN",
+    "count": 10
+  },
+  {
+    "make": "MINI",
+    "model": "CONVERTIBLE",
+    "count": 1254
+  },
+  {
+    "make": "MINI",
+    "model": "COUNTRYMAN",
+    "count": 1999
+  },
+  {
+    "make": "MINI",
+    "model": "COUPE",
+    "count": 157
+  },
+  {
+    "make": "MINI",
+    "model": "HATCH",
+    "count": 7838
+  },
+  {
+    "make": "MINI",
+    "model": "PACEMAN",
+    "count": 185
+  },
+  {
+    "make": "MINI",
+    "model": "ROADSTER",
+    "count": 93
+  },
+  {
+    "make": "MINI",
+    "model": "UNSPECIFIED",
+    "count": 1
+  },
+  {
+    "make": "MITSUBISHI",
+    "model": "3000GT",
+    "count": 1
+  },
+  {
+    "make": "MITSUBISHI",
+    "model": "AIRTREK",
+    "count": 1
+  },
+  {
+    "make": "MITSUBISHI",
+    "model": "ASX",
+    "count": 499
+  },
+  {
+    "make": "MITSUBISHI",
+    "model": "CARISMA",
+    "count": 4
+  },
+  {
+    "make": "MITSUBISHI",
+    "model": "COLT",
+    "count": 100
+  },
+  {
+    "make": "MITSUBISHI",
+    "model": "COLT CABRIOLET",
+    "count": 14
+  },
+  {
+    "make": "MITSUBISHI",
+    "model": "DELICA",
+    "count": 3
+  },
+  {
+    "make": "MITSUBISHI",
+    "model": "ECLIPSE",
+    "count": 2
+  },
+  {
+    "make": "MITSUBISHI",
+    "model": "ECLIPSE CROSS",
+    "count": 327
+  },
+  {
+    "make": "MITSUBISHI",
+    "model": "FTO",
+    "count": 3
+  },
+  {
+    "make": "MITSUBISHI",
+    "model": "GRANDIS",
+    "count": 19
+  },
+  {
+    "make": "MITSUBISHI",
+    "model": "GTO",
+    "count": 4
+  },
+  {
+    "make": "MITSUBISHI",
+    "model": "I",
+    "count": 2
+  },
+  {
+    "make": "MITSUBISHI",
+    "model": "I-MIEV",
+    "count": 5
+  },
+  {
+    "make": "MITSUBISHI",
+    "model": "L200",
+    "count": 1094
+  },
+  {
+    "make": "MITSUBISHI",
+    "model": "LANCER",
+    "count": 93
+  },
+  {
+    "make": "MITSUBISHI",
+    "model": "MIRAGE",
+    "count": 203
+  },
+  {
+    "make": "MITSUBISHI",
+    "model": "OUTLANDER",
+    "count": 1428
+  },
+  {
+    "make": "MITSUBISHI",
+    "model": "PAJERO",
+    "count": 3
+  },
+  {
+    "make": "MITSUBISHI",
+    "model": "PAJERO JUNIOR",
+    "count": 1
+  },
+  {
+    "make": "MITSUBISHI",
+    "model": "PAJERO MINI",
+    "count": 1
+  },
+  {
+    "make": "MITSUBISHI",
+    "model": "SHOGUN",
+    "count": 161
+  },
+  {
+    "make": "MITSUBISHI",
+    "model": "SHOGUN PININ",
+    "count": 6
+  },
+  {
+    "make": "MITSUBISHI",
+    "model": "SHOGUN SPORT",
+    "count": 58
+  },
+  {
+    "make": "MITSUBISHI",
+    "model": "SPACE STAR",
+    "count": 7
+  },
+  {
+    "make": "MITSUBISHI",
+    "model": "SPACE WAGON",
+    "count": 2
+  },
+  {
+    "make": "MITSUOKA",
+    "model": "GALUE",
+    "count": 1
+  },
+  {
+    "make": "MORGAN",
+    "model": "3 WHEELER",
+    "count": 2
+  },
+  {
+    "make": "MORGAN",
+    "model": "4/4",
+    "count": 7
+  },
+  {
+    "make": "MORGAN",
+    "model": "AERO",
+    "count": 1
+  },
+  {
+    "make": "MORGAN",
+    "model": "PLUS EIGHT",
+    "count": 3
+  },
+  {
+    "make": "MORGAN",
+    "model": "PLUS FOUR",
+    "count": 7
+  },
+  {
+    "make": "MORGAN",
+    "model": "PLUS SIX",
+    "count": 1
+  },
+  {
+    "make": "MORGAN",
+    "model": "ROADSTER",
+    "count": 5
+  },
+  {
+    "make": "MORRIS",
+    "model": "10",
+    "count": 1
+  },
+  {
+    "make": "MORRIS",
+    "model": "1000",
+    "count": 1
+  },
+  {
+    "make": "MORRIS",
+    "model": "ISIS",
+    "count": 1
+  },
+  {
+    "make": "MORRIS",
+    "model": "MINI",
+    "count": 1
+  },
+  {
+    "make": "MORRIS",
+    "model": "MINOR",
+    "count": 7
+  },
+  {
+    "make": "NOBLE",
+    "model": "M12",
+    "count": 3
+  },
+  {
+    "make": "PANTHER",
+    "model": "KALLISTA",
+    "count": 1
+  },
+  {
+    "make": "PERODUA",
+    "model": "KELISA",
+    "count": 4
+  },
+  {
+    "make": "PERODUA",
+    "model": "KENARI",
+    "count": 1
+  },
+  {
+    "make": "PERODUA",
+    "model": "MYVI",
+    "count": 8
+  },
+  {
+    "make": "PEUGEOT",
+    "model": "1007",
+    "count": 22
+  },
+  {
+    "make": "PEUGEOT",
+    "model": "106",
+    "count": 12
+  },
+  {
+    "make": "PEUGEOT",
+    "model": "107",
+    "count": 789
+  },
+  {
+    "make": "PEUGEOT",
+    "model": "108",
+    "count": 1644
+  },
+  {
+    "make": "PEUGEOT",
+    "model": "2008",
+    "count": 2181
+  },
+  {
+    "make": "PEUGEOT",
+    "model": "205",
+    "count": 16
+  },
+  {
+    "make": "PEUGEOT",
+    "model": "206",
+    "count": 164
+  },
+  {
+    "make": "PEUGEOT",
+    "model": "206 CC",
+    "count": 45
+  },
+  {
+    "make": "PEUGEOT",
+    "model": "206 SW",
+    "count": 20
+  },
+  {
+    "make": "PEUGEOT",
+    "model": "207",
+    "count": 699
+  },
+  {
+    "make": "PEUGEOT",
+    "model": "207 CC",
+    "count": 104
+  },
+  {
+    "make": "PEUGEOT",
+    "model": "207 SW",
+    "count": 105
+  },
+  {
+    "make": "PEUGEOT",
+    "model": "208",
+    "count": 3236
+  },
+  {
+    "make": "PEUGEOT",
+    "model": "3008",
+    "count": 2404
+  },
+  {
+    "make": "PEUGEOT",
+    "model": "306",
+    "count": 7
+  },
+  {
+    "make": "PEUGEOT",
+    "model": "307",
+    "count": 99
+  },
+  {
+    "make": "PEUGEOT",
+    "model": "307 CC",
+    "count": 68
+  },
+  {
+    "make": "PEUGEOT",
+    "model": "307 SW",
+    "count": 36
+  },
+  {
+    "make": "PEUGEOT",
+    "model": "308",
+    "count": 1497
+  },
+  {
+    "make": "PEUGEOT",
+    "model": "308 CC",
+    "count": 62
+  },
+  {
+    "make": "PEUGEOT",
+    "model": "308 SW",
+    "count": 408
+  },
+  {
+    "make": "PEUGEOT",
+    "model": "4007",
+    "count": 15
+  },
+  {
+    "make": "PEUGEOT",
+    "model": "405",
+    "count": 1
+  },
+  {
+    "make": "PEUGEOT",
+    "model": "406",
+    "count": 8
+  },
+  {
+    "make": "PEUGEOT",
+    "model": "407",
+    "count": 54
+  },
+  {
+    "make": "PEUGEOT",
+    "model": "407 SW",
+    "count": 33
+  },
+  {
+    "make": "PEUGEOT",
+    "model": "5008",
+    "count": 397
+  },
+  {
+    "make": "PEUGEOT",
+    "model": "508",
+    "count": 251
+  },
+  {
+    "make": "PEUGEOT",
+    "model": "508 SW",
+    "count": 199
+  },
+  {
+    "make": "PEUGEOT",
+    "model": "607",
+    "count": 3
+  },
+  {
+    "make": "PEUGEOT",
+    "model": "807",
+    "count": 11
+  },
+  {
+    "make": "PEUGEOT",
+    "model": "BIPPER TEPEE",
+    "count": 18
+  },
+  {
+    "make": "PEUGEOT",
+    "model": "BOXER",
+    "count": 4
+  },
+  {
+    "make": "PEUGEOT",
+    "model": "EXPERT",
+    "count": 20
+  },
+  {
+    "make": "PEUGEOT",
+    "model": "EXPERT TEPEE",
+    "count": 34
+  },
+  {
+    "make": "PEUGEOT",
+    "model": "ION",
+    "count": 4
+  },
+  {
+    "make": "PEUGEOT",
+    "model": "PARTNER",
+    "count": 81
+  },
+  {
+    "make": "PEUGEOT",
+    "model": "PARTNER TEPEE",
+    "count": 262
+  },
+  {
+    "make": "PEUGEOT",
+    "model": "RCZ",
+    "count": 177
+  },
+  {
+    "make": "PEUGEOT",
+    "model": "RIFTER",
+    "count": 88
+  },
+  {
+    "make": "PEUGEOT",
+    "model": "TRAVELLER",
+    "count": 40
+  },
+  {
+    "make": "PILGRIM",
+    "model": "SUMO",
+    "count": 2
+  },
+  {
+    "make": "PLYMOUTH",
+    "model": "PROWLER",
+    "count": 1
+  },
+  {
+    "make": "PONTIAC",
+    "model": "FIREBIRD",
+    "count": 1
+  },
+  {
+    "make": "PONTIAC",
+    "model": "TRANS AM",
+    "count": 1
+  },
+  {
+    "make": "PROTON",
+    "model": "GEN-2",
+    "count": 11
+  },
+  {
+    "make": "PROTON",
+    "model": "SATRIA",
+    "count": 1
+  },
+  {
+    "make": "PROTON",
+    "model": "SATRIA NEO",
+    "count": 1
+  },
+  {
+    "make": "PROTON",
+    "model": "SAVVY",
+    "count": 5
+  },
+  {
+    "make": "RADICAL",
+    "model": "RAPTURE",
+    "count": 1
+  },
+  {
+    "make": "RENAULT",
+    "model": "11",
+    "count": 3
+  },
+  {
+    "make": "RENAULT",
+    "model": "19",
+    "count": 1
+  },
+  {
+    "make": "RENAULT",
+    "model": "5",
+    "count": 8
+  },
+  {
+    "make": "RENAULT",
+    "model": "CAPTUR",
+    "count": 2586
+  },
+  {
+    "make": "RENAULT",
+    "model": "CLIO",
+    "count": 3912
+  },
+  {
+    "make": "RENAULT",
+    "model": "ESPACE",
+    "count": 10
+  },
+  {
+    "make": "RENAULT",
+    "model": "FLUENCE",
+    "count": 1
+  },
+  {
+    "make": "RENAULT",
+    "model": "GRAND ESPACE",
+    "count": 20
+  },
+  {
+    "make": "RENAULT",
+    "model": "GRAND MODUS",
+    "count": 57
+  },
+  {
+    "make": "RENAULT",
+    "model": "GRAND SCENIC",
+    "count": 394
+  },
+  {
+    "make": "RENAULT",
+    "model": "KADJAR",
+    "count": 1728
+  },
+  {
+    "make": "RENAULT",
+    "model": "KANGOO",
+    "count": 76
+  },
+  {
+    "make": "RENAULT",
+    "model": "KANGOO MAXI",
+    "count": 13
+  },
+  {
+    "make": "RENAULT",
+    "model": "KOLEOS",
+    "count": 82
+  },
+  {
+    "make": "RENAULT",
+    "model": "LAGUNA",
+    "count": 78
+  },
+  {
+    "make": "RENAULT",
+    "model": "MASTER",
+    "count": 10
+  },
+  {
+    "make": "RENAULT",
+    "model": "MEGANE",
+    "count": 1388
+  },
+  {
+    "make": "RENAULT",
+    "model": "MODUS",
+    "count": 87
+  },
+  {
+    "make": "RENAULT",
+    "model": "SCENIC",
+    "count": 412
+  },
+  {
+    "make": "RENAULT",
+    "model": "SCENIC RX4",
+    "count": 1
+  },
+  {
+    "make": "RENAULT",
+    "model": "SCENIC XMOD",
+    "count": 19
+  },
+  {
+    "make": "RENAULT",
+    "model": "TRAFIC",
+    "count": 88
+  },
+  {
+    "make": "RENAULT",
+    "model": "TWINGO",
+    "count": 290
+  },
+  {
+    "make": "RENAULT",
+    "model": "TWIZY",
+    "count": 16
+  },
+  {
+    "make": "RENAULT",
+    "model": "VEL SATIS",
+    "count": 1
+  },
+  {
+    "make": "RENAULT",
+    "model": "WIND",
+    "count": 24
+  },
+  {
+    "make": "RENAULT",
+    "model": "ZOE",
+    "count": 468
+  },
+  {
+    "make": "REPLICA",
+    "model": "COBRA",
+    "count": 6
+  },
+  {
+    "make": "ROLLS-ROYCE",
+    "model": "25/30",
+    "count": 1
+  },
+  {
+    "make": "ROLLS-ROYCE",
+    "model": "CORNICHE",
+    "count": 7
+  },
+  {
+    "make": "ROLLS-ROYCE",
+    "model": "CULLINAN",
+    "count": 20
+  },
+  {
+    "make": "ROLLS-ROYCE",
+    "model": "DAWN",
+    "count": 39
+  },
+  {
+    "make": "ROLLS-ROYCE",
+    "model": "GHOST",
+    "count": 63
+  },
+  {
+    "make": "ROLLS-ROYCE",
+    "model": "PHANTOM",
+    "count": 71
+  },
+  {
+    "make": "ROLLS-ROYCE",
+    "model": "SILVER CLOUD",
+    "count": 2
+  },
+  {
+    "make": "ROLLS-ROYCE",
+    "model": "SILVER SERAPH",
+    "count": 10
+  },
+  {
+    "make": "ROLLS-ROYCE",
+    "model": "SILVER SHADOW",
+    "count": 16
+  },
+  {
+    "make": "ROLLS-ROYCE",
+    "model": "SILVER SPIRIT",
+    "count": 19
+  },
+  {
+    "make": "ROLLS-ROYCE",
+    "model": "SILVER SPUR",
+    "count": 5
+  },
+  {
+    "make": "ROLLS-ROYCE",
+    "model": "SILVER WRAITH",
+    "count": 2
+  },
+  {
+    "make": "ROLLS-ROYCE",
+    "model": "WRAITH",
+    "count": 55
+  },
+  {
+    "make": "ROVER",
+    "model": "100",
+    "count": 2
+  },
+  {
+    "make": "ROVER",
+    "model": "110",
+    "count": 1
+  },
+  {
+    "make": "ROVER",
+    "model": "200",
+    "count": 1
+  },
+  {
+    "make": "ROVER",
+    "model": "25",
+    "count": 10
+  },
+  {
+    "make": "ROVER",
+    "model": "400",
+    "count": 4
+  },
+  {
+    "make": "ROVER",
+    "model": "45",
+    "count": 9
+  },
+  {
+    "make": "ROVER",
+    "model": "600",
+    "count": 1
+  },
+  {
+    "make": "ROVER",
+    "model": "75",
+    "count": 43
+  },
+  {
+    "make": "ROVER",
+    "model": "75 TOURER",
+    "count": 6
+  },
+  {
+    "make": "ROVER",
+    "model": "800",
+    "count": 1
+  },
+  {
+    "make": "ROVER",
+    "model": "METRO",
+    "count": 4
+  },
+  {
+    "make": "ROVER",
+    "model": "MINI",
+    "count": 45
+  },
+  {
+    "make": "ROVER",
+    "model": "P6",
+    "count": 3
+  },
+  {
+    "make": "SAAB",
+    "model": "9-3",
+    "count": 296
+  },
+  {
+    "make": "SAAB",
+    "model": "9-5",
+    "count": 52
+  },
+  {
+    "make": "SAAB",
+    "model": "900",
+    "count": 12
+  },
+  {
+    "make": "SAAB",
+    "model": "9000",
+    "count": 2
+  },
+  {
+    "make": "SEAT",
+    "model": "ALHAMBRA",
+    "count": 455
+  },
+  {
+    "make": "SEAT",
+    "model": "ALTEA",
+    "count": 96
+  },
+  {
+    "make": "SEAT",
+    "model": "ALTEA XL",
+    "count": 50
+  },
+  {
+    "make": "SEAT",
+    "model": "ARONA",
+    "count": 757
+  },
+  {
+    "make": "SEAT",
+    "model": "AROSA",
+    "count": 8
+  },
+  {
+    "make": "SEAT",
+    "model": "ATECA",
+    "count": 891
+  },
+  {
+    "make": "SEAT",
+    "model": "CORDOBA",
+    "count": 2
+  },
+  {
+    "make": "SEAT",
+    "model": "EXEO",
+    "count": 48
+  },
+  {
+    "make": "SEAT",
+    "model": "IBIZA",
+    "count": 2581
+  },
+  {
+    "make": "SEAT",
+    "model": "LEON",
+    "count": 3413
+  },
+  {
+    "make": "SEAT",
+    "model": "MII",
+    "count": 224
+  },
+  {
+    "make": "SEAT",
+    "model": "TARRACO",
+    "count": 192
+  },
+  {
+    "make": "SEAT",
+    "model": "TOLEDO",
+    "count": 61
+  },
+  {
+    "make": "SEBRING",
+    "model": "MXR",
+    "count": 1
+  },
+  {
+    "make": "SKODA",
+    "model": "CITIGO",
+    "count": 806
+  },
+  {
+    "make": "SKODA",
+    "model": "FABIA",
+    "count": 2695
+  },
+  {
+    "make": "SKODA",
+    "model": "KAMIQ",
+    "count": 210
+  },
+  {
+    "make": "SKODA",
+    "model": "KAROQ",
+    "count": 887
+  },
+  {
+    "make": "SKODA",
+    "model": "KODIAQ",
+    "count": 564
+  },
+  {
+    "make": "SKODA",
+    "model": "OCTAVIA",
+    "count": 3095
+  },
+  {
+    "make": "SKODA",
+    "model": "RAPID",
+    "count": 103
+  },
+  {
+    "make": "SKODA",
+    "model": "RAPID SPACEBACK",
+    "count": 226
+  },
+  {
+    "make": "SKODA",
+    "model": "ROOMSTER",
+    "count": 116
+  },
+  {
+    "make": "SKODA",
+    "model": "SCALA",
+    "count": 227
+  },
+  {
+    "make": "SKODA",
+    "model": "SUPERB",
+    "count": 1391
+  },
+  {
+    "make": "SKODA",
+    "model": "YETI",
+    "count": 843
+  },
+  {
+    "make": "SMART",
+    "model": "CROSSBLADE",
+    "count": 2
+  },
+  {
+    "make": "SMART",
+    "model": "FORFOUR",
+    "count": 430
+  },
+  {
+    "make": "SMART",
+    "model": "FORTWO",
+    "count": 867
+  },
+  {
+    "make": "SMART",
+    "model": "ROADSTER",
+    "count": 24
+  },
+  {
+    "make": "SSANGYONG",
+    "model": "KORANDO",
+    "count": 193
+  },
+  {
+    "make": "SSANGYONG",
+    "model": "KORANDO SPORTS",
+    "count": 5
+  },
+  {
+    "make": "SSANGYONG",
+    "model": "KYRON",
+    "count": 2
+  },
+  {
+    "make": "SSANGYONG",
+    "model": "MUSSO",
+    "count": 44
+  },
+  {
+    "make": "SSANGYONG",
+    "model": "REXTON",
+    "count": 65
+  },
+  {
+    "make": "SSANGYONG",
+    "model": "RODIUS",
+    "count": 11
+  },
+  {
+    "make": "SSANGYONG",
+    "model": "TIVOLI",
+    "count": 188
+  },
+  {
+    "make": "SSANGYONG",
+    "model": "TIVOLI XLV",
+    "count": 37
+  },
+  {
+    "make": "SSANGYONG",
+    "model": "TURISMO",
+    "count": 63
+  },
+  {
+    "make": "SUBARU",
+    "model": "BRZ",
+    "count": 15
+  },
+  {
+    "make": "SUBARU",
+    "model": "EXIGA",
+    "count": 3
+  },
+  {
+    "make": "SUBARU",
+    "model": "FORESTER",
+    "count": 273
+  },
+  {
+    "make": "SUBARU",
+    "model": "IMPREZA",
+    "count": 201
+  },
+  {
+    "make": "SUBARU",
+    "model": "JUSTY",
+    "count": 5
+  },
+  {
+    "make": "SUBARU",
+    "model": "LEGACY",
+    "count": 51
+  },
+  {
+    "make": "SUBARU",
+    "model": "LEVORG",
+    "count": 62
+  },
+  {
+    "make": "SUBARU",
+    "model": "OUTBACK",
+    "count": 138
+  },
+  {
+    "make": "SUBARU",
+    "model": "SAMBAR",
+    "count": 1
+  },
+  {
+    "make": "SUBARU",
+    "model": "TRIBECA",
+    "count": 4
+  },
+  {
+    "make": "SUBARU",
+    "model": "WRX STI",
+    "count": 41
+  },
+  {
+    "make": "SUBARU",
+    "model": "XV",
+    "count": 168
+  },
+  {
+    "make": "SUZUKI",
+    "model": "ALTO",
+    "count": 288
+  },
+  {
+    "make": "SUZUKI",
+    "model": "BALENO",
+    "count": 104
+  },
+  {
+    "make": "SUZUKI",
+    "model": "CAPPUCCINO",
+    "count": 2
+  },
+  {
+    "make": "SUZUKI",
+    "model": "CELERIO",
+    "count": 298
+  },
+  {
+    "make": "SUZUKI",
+    "model": "GRAND VITARA",
+    "count": 138
+  },
+  {
+    "make": "SUZUKI",
+    "model": "IGNIS",
+    "count": 479
+  },
+  {
+    "make": "SUZUKI",
+    "model": "JIMNY",
+    "count": 196
+  },
+  {
+    "make": "SUZUKI",
+    "model": "KIZASHI",
+    "count": 3
+  },
+  {
+    "make": "SUZUKI",
+    "model": "LIANA",
+    "count": 6
+  },
+  {
+    "make": "SUZUKI",
+    "model": "SPLASH",
+    "count": 111
+  },
+  {
+    "make": "SUZUKI",
+    "model": "SWIFT",
+    "count": 1320
+  },
+  {
+    "make": "SUZUKI",
+    "model": "SX4",
+    "count": 136
+  },
+  {
+    "make": "SUZUKI",
+    "model": "SX4 S-CROSS",
+    "count": 343
+  },
+  {
+    "make": "SUZUKI",
+    "model": "VITARA",
+    "count": 1064
+  },
+  {
+    "make": "SUZUKI",
+    "model": "WAGON R",
+    "count": 31
+  },
+  {
+    "make": "TESLA",
+    "model": "MODEL 3",
+    "count": 68
+  },
+  {
+    "make": "TESLA",
+    "model": "MODEL S",
+    "count": 222
+  },
+  {
+    "make": "TESLA",
+    "model": "MODEL X",
+    "count": 88
+  },
+  {
+    "make": "TESLA",
+    "model": "ROADSTER",
+    "count": 3
+  },
+  {
+    "make": "TIGER",
+    "model": "AVON",
+    "count": 1
+  },
+  {
+    "make": "TIGER",
+    "model": "CAT E1",
+    "count": 1
+  },
+  {
+    "make": "TIGER",
+    "model": "ERA HSS",
+    "count": 1
+  },
+  {
+    "make": "TIGER",
+    "model": "SUPER SIX",
+    "count": 1
+  },
+  {
+    "make": "TRIUMPH",
+    "model": "1500",
+    "count": 1
+  },
+  {
+    "make": "TRIUMPH",
+    "model": "2500",
+    "count": 1
+  },
+  {
+    "make": "TRIUMPH",
+    "model": "DOLOMITE",
+    "count": 1
+  },
+  {
+    "make": "TRIUMPH",
+    "model": "GT6",
+    "count": 2
+  },
+  {
+    "make": "TRIUMPH",
+    "model": "HERALD",
+    "count": 1
+  },
+  {
+    "make": "TRIUMPH",
+    "model": "SPITFIRE",
+    "count": 1
+  },
+  {
+    "make": "TRIUMPH",
+    "model": "STAG",
+    "count": 7
+  },
+  {
+    "make": "TRIUMPH",
+    "model": "TR2",
+    "count": 1
+  },
+  {
+    "make": "TRIUMPH",
+    "model": "TR3",
+    "count": 1
+  },
+  {
+    "make": "TRIUMPH",
+    "model": "TR4",
+    "count": 2
+  },
+  {
+    "make": "TRIUMPH",
+    "model": "TR6",
+    "count": 3
+  },
+  {
+    "make": "TVR",
+    "model": "350I",
+    "count": 1
+  },
+  {
+    "make": "TVR",
+    "model": "CERBERA",
+    "count": 5
+  },
+  {
+    "make": "TVR",
+    "model": "CHIMAERA",
+    "count": 12
+  },
+  {
+    "make": "TVR",
+    "model": "GRIFFITH",
+    "count": 12
+  },
+  {
+    "make": "TVR",
+    "model": "S CONVERTIBLE",
+    "count": 1
+  },
+  {
+    "make": "TVR",
+    "model": "S3",
+    "count": 1
+  },
+  {
+    "make": "TVR",
+    "model": "SAGARIS",
+    "count": 2
+  },
+  {
+    "make": "TVR",
+    "model": "T350",
+    "count": 3
+  },
+  {
+    "make": "TVR",
+    "model": "TAMORA",
+    "count": 2
+  },
+  {
+    "make": "TVR",
+    "model": "TUSCAN",
+    "count": 6
+  },
+  {
+    "make": "ULTIMA",
+    "model": "CAN-AM",
+    "count": 1
+  },
+  {
+    "make": "VOLVO",
+    "model": "122",
+    "count": 1
+  },
+  {
+    "make": "VOLVO",
+    "model": "240",
+    "count": 2
+  },
+  {
+    "make": "VOLVO",
+    "model": "480",
+    "count": 1
+  },
+  {
+    "make": "VOLVO",
+    "model": "740",
+    "count": 1
+  },
+  {
+    "make": "VOLVO",
+    "model": "850",
+    "count": 6
+  },
+  {
+    "make": "VOLVO",
+    "model": "940",
+    "count": 4
+  },
+  {
+    "make": "VOLVO",
+    "model": "960",
+    "count": 2
+  },
+  {
+    "make": "VOLVO",
+    "model": "C30",
+    "count": 298
+  },
+  {
+    "make": "VOLVO",
+    "model": "C70",
+    "count": 77
+  },
+  {
+    "make": "VOLVO",
+    "model": "S40",
+    "count": 176
+  },
+  {
+    "make": "VOLVO",
+    "model": "S60",
+    "count": 444
+  },
+  {
+    "make": "VOLVO",
+    "model": "S70",
+    "count": 1
+  },
+  {
+    "make": "VOLVO",
+    "model": "S80",
+    "count": 64
+  },
+  {
+    "make": "VOLVO",
+    "model": "S90",
+    "count": 312
+  },
+  {
+    "make": "VOLVO",
+    "model": "V40",
+    "count": 1660
+  },
+  {
+    "make": "VOLVO",
+    "model": "V40 CROSS COUNTRY",
+    "count": 320
+  },
+  {
+    "make": "VOLVO",
+    "model": "V50",
+    "count": 216
+  },
+  {
+    "make": "VOLVO",
+    "model": "V60",
+    "count": 801
+  },
+  {
+    "make": "VOLVO",
+    "model": "V60 CROSS COUNTRY",
+    "count": 88
+  },
+  {
+    "make": "VOLVO",
+    "model": "V70",
+    "count": 280
+  },
+  {
+    "make": "VOLVO",
+    "model": "V70 CROSS COUNTRY",
+    "count": 1
+  },
+  {
+    "make": "VOLVO",
+    "model": "V90",
+    "count": 439
+  },
+  {
+    "make": "VOLVO",
+    "model": "V90 CROSS COUNTRY",
+    "count": 162
+  },
+  {
+    "make": "VOLVO",
+    "model": "XC40",
+    "count": 938
+  },
+  {
+    "make": "VOLVO",
+    "model": "XC60",
+    "count": 2110
+  },
+  {
+    "make": "VOLVO",
+    "model": "XC70",
+    "count": 142
+  },
+  {
+    "make": "VOLVO",
+    "model": "XC90",
+    "count": 1190
+  },
+  {
+    "make": "WESTFIELD",
+    "model": "1600",
+    "count": 2
+  },
+  {
+    "make": "WESTFIELD",
+    "model": "MEGA",
+    "count": 1
+  },
+  {
+    "make": "WESTFIELD",
+    "model": "SE",
+    "count": 1
+  },
+  {
+    "make": "WESTFIELD",
+    "model": "SEI",
+    "count": 1
+  },
+  {
+    "make": "WESTFIELD",
+    "model": "SPORT",
+    "count": 1
+  },
+  {
+    "make": "WOLSELEY",
+    "model": "6/110",
+    "count": 1
+  },
+  {
+    "make": "ZENOS",
+    "model": "E10",
+    "count": 2
+  }
+]
